@@ -1,0 +1,1952 @@
+physically.inactive,years.lived.since.1971.up.to.1992,sex,smoking.status,income.poverty.ratio,age.at.interview,race,education,working.last.three.months,married,alcohol.consumption,dietary.adequacy
+TRUE,8,Female,Never,NA,74,Nonwhite,0-8,FALSE,FALSE,Never,2
+TRUE,21,Female,Never,2.13,56,White,12,FALSE,TRUE,<1 time per month,2
+TRUE,21,Female,Never,0.72,69,White,College Grad,FALSE,FALSE,Never,1
+TRUE,14,Male,Never,1.35,73,White,0-8,FALSE,FALSE,2+ times per week,4
+TRUE,1,Female,Never,1.26,54,Nonwhite,0-8,FALSE,TRUE,Never,5
+TRUE,21,Female,Never,0.77,48,White,11-Sep,FALSE,FALSE,Never,5
+TRUE,21,Male,Never,2.05,54,Nonwhite,11-Sep,TRUE,TRUE,Never,5
+TRUE,8,Female,Former,2.58,61,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,4
+TRUE,13,Male,Current,1.74,51,White,11-Sep,FALSE,TRUE,2+ times per week,4
+TRUE,12,Female,Never,NA,66,White,0-8,FALSE,FALSE,Never,5
+TRUE,11,Male,Current,0.87,49,White,11-Sep,FALSE,TRUE,2+ times per week,5
+TRUE,9,Male,Current,1.69,70,White,11-Sep,FALSE,FALSE,<1 time per month,5
+TRUE,7,Male,Current,3.11,58,White,Some College,TRUE,FALSE,Just about everyday/everyday,5
+TRUE,21,Male,Never,3.85,53,White,College Grad,TRUE,TRUE,<1 time per month,5
+TRUE,11,Female,Never,0.94,74,White,0-8,FALSE,TRUE,<1 time per month,0
+TRUE,21,Female,Never,0.2,66,White,0-8,FALSE,TRUE,Never,1
+TRUE,14,Male,Current,NA,57,White,12,TRUE,TRUE,1-4 times per month,5
+TRUE,21,Female,Current,1.38,64,White,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,1.6,51,White,12,FALSE,TRUE,<1 time per month,3
+TRUE,21,Male,Former,2.62,61,White,College Grad,TRUE,TRUE,2+ times per week,4
+TRUE,1,Female,Never,2.28,53,White,11-Sep,FALSE,TRUE,<1 time per month,0
+TRUE,21,Female,Former,NA,61,White,College Grad,TRUE,FALSE,2+ times per week,5
+TRUE,21,Male,Never,2.62,48,White,College Grad,FALSE,TRUE,1-4 times per month,5
+TRUE,7,Male,Current,0.19,60,White,12,FALSE,FALSE,Just about everyday/everyday,4
+TRUE,21,Male,Former,9.98,47,White,College Grad,TRUE,FALSE,Just about everyday/everyday,5
+TRUE,18,Male,Current,0.7,65,Nonwhite,0-8,FALSE,FALSE,<1 time per month,3
+TRUE,21,Female,Current,3.85,48,Nonwhite,11-Sep,FALSE,TRUE,2+ times per week,3
+TRUE,5,Male,Never,2.62,71,White,0-8,FALSE,TRUE,Just about everyday/everyday,4
+TRUE,21,Female,Never,NA,48,White,0-8,FALSE,TRUE,Never,3
+TRUE,8,Female,Never,NA,67,Nonwhite,Missing,FALSE,FALSE,Never,2
+TRUE,21,Male,Never,3.06,71,White,0-8,TRUE,FALSE,<1 time per month,3
+TRUE,17,Male,Current,3.02,62,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,3,Female,Former,0.57,70,White,0-8,FALSE,FALSE,<1 time per month,3
+TRUE,8,Male,Current,1.99,66,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,19,Female,Never,NA,69,White,College Grad,FALSE,FALSE,Never,4
+TRUE,21,Female,Never,1.99,51,White,12,FALSE,TRUE,<1 time per month,0
+TRUE,8,Male,Never,1.42,67,White,0-8,FALSE,TRUE,Never,4
+TRUE,21,Female,Never,2,67,Nonwhite,0-8,FALSE,TRUE,Never,5
+TRUE,21,Male,Former,4.09,51,White,College Grad,TRUE,TRUE,<1 time per month,4
+TRUE,21,Female,Current,0.52,55,White,11-Sep,FALSE,FALSE,1-4 times per month,0
+TRUE,5,Female,Never,1.61,69,White,0-8,FALSE,TRUE,<1 time per month,5
+TRUE,20,Female,Former,0.64,66,White,11-Sep,FALSE,FALSE,<1 time per month,4
+TRUE,19,Male,Never,2.69,71,White,11-Sep,FALSE,TRUE,2+ times per week,5
+TRUE,21,Female,Former,3.02,49,White,12,FALSE,TRUE,<1 time per month,4
+TRUE,17,Female,Never,2.28,46,White,12,FALSE,TRUE,Never,3
+TRUE,9,Male,Never,8.41,70,White,Some College,FALSE,TRUE,Never,4
+TRUE,2,Female,Never,3.02,73,White,11-Sep,FALSE,FALSE,Never,2
+TRUE,21,Male,Current,1.76,68,White,0-8,FALSE,TRUE,1-4 times per month,3
+TRUE,21,Female,Never,2.13,59,White,12,TRUE,FALSE,Never,4
+TRUE,14,Female,Former,4.58,59,White,11-Sep,FALSE,TRUE,Never,4
+TRUE,6,Male,Current,2.62,65,White,0-8,FALSE,TRUE,Just about everyday/everyday,2
+TRUE,21,Male,Never,0.71,65,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,3
+TRUE,8,Male,Former,1.11,70,Nonwhite,11-Sep,FALSE,TRUE,Never,2
+TRUE,21,Female,Never,0.78,69,Nonwhite,0-8,FALSE,FALSE,Never,1
+TRUE,2,Female,Never,1.59,69,White,0-8,FALSE,TRUE,Never,4
+TRUE,21,Female,Current,3.11,57,White,12,TRUE,TRUE,1-4 times per month,4
+TRUE,9,Female,Former,0.92,66,White,0-8,FALSE,FALSE,<1 time per month,2
+TRUE,21,Female,Current,6.41,48,White,Some College,FALSE,TRUE,<1 time per month,4
+TRUE,17,Female,Never,3.11,60,White,12,FALSE,TRUE,2+ times per week,4
+TRUE,21,Male,Never,3.47,74,White,11-Sep,FALSE,TRUE,Never,4
+TRUE,6,Female,Current,NA,70,Nonwhite,0-8,FALSE,FALSE,Never,4
+TRUE,10,Female,Never,0.98,70,Nonwhite,0-8,FALSE,TRUE,Never,0
+TRUE,14,Male,Never,0.8,67,Nonwhite,0-8,FALSE,TRUE,<1 time per month,5
+TRUE,5,Male,Never,1.74,70,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,3
+TRUE,10,Female,Never,1.27,69,White,11-Sep,FALSE,TRUE,Never,4
+TRUE,13,Female,Former,0.63,71,Nonwhite,0-8,FALSE,FALSE,Never,3
+TRUE,19,Female,Never,1.74,55,Nonwhite,0-8,TRUE,FALSE,Never,3
+TRUE,7,Female,Never,0.65,68,Nonwhite,0-8,FALSE,FALSE,<1 time per month,3
+TRUE,9,Female,Never,0.66,66,Nonwhite,12,FALSE,FALSE,Never,0
+TRUE,21,Female,Never,5.22,47,White,College Grad,TRUE,TRUE,1-4 times per month,4
+TRUE,7,Female,Never,1.52,70,White,0-8,FALSE,TRUE,Never,1
+TRUE,10,Male,Current,1.22,73,White,12,FALSE,FALSE,<1 time per month,5
+TRUE,8,Male,Current,0.83,70,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,5
+TRUE,21,Female,Current,0.81,49,Nonwhite,11-Sep,FALSE,FALSE,Never,2
+TRUE,21,Female,Current,8.86,55,White,College Grad,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,8,Male,Never,1.21,68,Nonwhite,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,4.43,63,White,11-Sep,FALSE,TRUE,<1 time per month,4
+TRUE,21,Male,Current,1.42,63,White,11-Sep,FALSE,FALSE,2+ times per week,1
+TRUE,21,Female,Never,2.28,45,White,12,FALSE,FALSE,<1 time per month,4
+TRUE,7,Female,Never,1.92,70,White,12,FALSE,TRUE,Never,4
+TRUE,21,Female,Former,2.54,51,White,College Grad,FALSE,TRUE,<1 time per month,4
+TRUE,17,Female,Never,6.91,68,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,14,Female,Current,NA,63,White,College Grad,FALSE,FALSE,Just about everyday/everyday,4
+TRUE,21,Female,Current,0.39,49,White,0-8,FALSE,FALSE,Never,2
+TRUE,20,Male,Never,0.55,45,White,0-8,FALSE,FALSE,Never,4
+TRUE,21,Female,Never,0.96,66,White,0-8,FALSE,FALSE,Never,2
+TRUE,12,Male,Never,0.72,66,White,0-8,TRUE,TRUE,2+ times per week,3
+TRUE,7,Male,Former,2.08,74,White,Some College,FALSE,TRUE,Never,1
+TRUE,20,Male,Current,1.22,66,White,0-8,FALSE,TRUE,1-4 times per month,2
+TRUE,5,Female,Current,0.56,69,White,0-8,FALSE,FALSE,1-4 times per month,1
+TRUE,20,Female,Former,0.62,69,White,0-8,FALSE,TRUE,Never,4
+TRUE,4,Male,Never,1.25,70,White,0-8,FALSE,TRUE,2+ times per week,5
+TRUE,21,Female,Never,1.4,61,White,0-8,FALSE,TRUE,Never,3
+TRUE,21,Female,Never,0.37,62,White,0-8,FALSE,FALSE,Never,2
+TRUE,8,Male,Former,0.97,67,White,0-8,FALSE,TRUE,Never,3
+TRUE,4,Female,Former,0.54,63,White,0-8,FALSE,TRUE,Never,5
+TRUE,21,Female,Never,0.87,68,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,3
+TRUE,5,Female,Current,0.72,67,White,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,0.35,64,White,0-8,FALSE,FALSE,Never,4
+TRUE,5,Male,Current,0.13,67,Nonwhite,0-8,FALSE,FALSE,<1 time per month,2
+TRUE,1,Male,Current,0.73,55,Nonwhite,0-8,FALSE,FALSE,Never,1
+TRUE,21,Female,Never,1.02,50,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,2
+TRUE,21,Female,Never,2.74,56,Nonwhite,0-8,TRUE,FALSE,<1 time per month,3
+TRUE,3,Male,Current,1.11,69,White,0-8,FALSE,TRUE,Never,3
+TRUE,17,Male,Never,0.7,72,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,3
+TRUE,10,Male,Never,0.74,66,Nonwhite,0-8,FALSE,TRUE,Never,0
+TRUE,20,Female,Never,0.19,52,Nonwhite,0-8,FALSE,TRUE,Never,2
+TRUE,12,Male,Current,1.79,66,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,3
+TRUE,21,Female,Never,0.69,66,Nonwhite,0-8,TRUE,FALSE,<1 time per month,3
+TRUE,17,Male,Never,2.33,71,White,0-8,FALSE,TRUE,Never,5
+TRUE,21,Male,Current,0.17,56,Nonwhite,0-8,FALSE,TRUE,Never,1
+TRUE,1,Male,Current,0.34,58,Nonwhite,0-8,FALSE,TRUE,<1 time per month,3
+TRUE,15,Female,Current,4.08,54,White,Some College,FALSE,FALSE,<1 time per month,3
+TRUE,21,Female,Former,0.83,67,Nonwhite,0-8,FALSE,TRUE,Never,2
+TRUE,16,Male,Never,0.38,67,Nonwhite,0-8,FALSE,TRUE,Never,3
+TRUE,21,Female,Current,8.86,51,White,Some College,FALSE,TRUE,<1 time per month,3
+TRUE,3,Male,Former,1.4,65,Nonwhite,0-8,FALSE,TRUE,Never,3
+TRUE,13,Female,Current,1.35,68,White,0-8,FALSE,FALSE,<1 time per month,4
+TRUE,8,Female,Never,1.04,69,White,0-8,FALSE,TRUE,Never,2
+TRUE,21,Female,Never,1,69,White,0-8,FALSE,TRUE,Never,0
+TRUE,5,Male,Current,1.1,72,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,0
+TRUE,12,Female,Never,1.1,68,Nonwhite,0-8,FALSE,TRUE,<1 time per month,1
+TRUE,18,Female,Never,0.7,67,White,0-8,FALSE,TRUE,Never,1
+TRUE,20,Female,Never,1.26,65,White,11-Sep,FALSE,TRUE,Never,3
+TRUE,4,Female,Never,0.77,68,White,0-8,FALSE,TRUE,Never,1
+TRUE,6,Male,Current,1.13,68,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,21,Female,Never,0.59,63,Nonwhite,0-8,FALSE,TRUE,Never,2
+TRUE,19,Male,Current,3.54,54,White,11-Sep,TRUE,TRUE,1-4 times per month,2
+TRUE,9,Female,Never,0.68,45,Nonwhite,11-Sep,FALSE,FALSE,<1 time per month,0
+TRUE,18,Female,Never,0.55,62,White,0-8,FALSE,TRUE,Never,4
+TRUE,10,Male,Former,0.94,73,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,13,Female,Never,1.2,73,Nonwhite,0-8,FALSE,FALSE,Never,1
+TRUE,16,Male,Never,2.92,66,White,College Grad,TRUE,TRUE,Never,5
+TRUE,5,Female,Current,1.83,73,White,College Grad,FALSE,FALSE,Just about everyday/everyday,3
+TRUE,19,Female,Never,1.2,71,Nonwhite,0-8,FALSE,FALSE,Never,2
+TRUE,5,Male,Current,0.95,71,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,1
+TRUE,21,Female,Current,1.65,64,Nonwhite,0-8,FALSE,TRUE,<1 time per month,1
+TRUE,19,Female,Never,3.47,71,White,0-8,FALSE,FALSE,<1 time per month,4
+TRUE,1,Male,Current,3.73,48,Nonwhite,11-Sep,TRUE,TRUE,2+ times per week,4
+TRUE,21,Male,Never,3.22,45,White,College Grad,TRUE,TRUE,Never,4
+TRUE,5,Male,Current,2.05,69,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,3
+TRUE,21,Male,Former,3.77,61,White,College Grad,TRUE,FALSE,<1 time per month,5
+TRUE,19,Male,Current,3.73,50,White,College Grad,TRUE,TRUE,Just about everyday/everyday,4
+TRUE,3,Male,Current,3.36,71,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,21,Male,Current,NA,60,Nonwhite,0-8,FALSE,TRUE,<1 time per month,2
+TRUE,2,Male,Current,NA,67,Nonwhite,0-8,FALSE,TRUE,Just about everyday/everyday,2
+TRUE,12,Male,Never,1.5,66,White,12,FALSE,TRUE,Never,4
+TRUE,7,Male,Former,1.5,70,White,11-Sep,FALSE,FALSE,<1 time per month,4
+TRUE,13,Female,Never,1.02,72,White,0-8,FALSE,TRUE,Never,3
+TRUE,7,Female,Never,1.12,67,Nonwhite,0-8,FALSE,FALSE,Never,0
+TRUE,13,Male,Never,1.68,67,Nonwhite,0-8,TRUE,TRUE,2+ times per week,3
+TRUE,7,Male,Current,0.87,65,White,0-8,FALSE,FALSE,<1 time per month,2
+TRUE,18,Male,Never,1.02,71,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,8,Female,Never,NA,68,White,11-Sep,FALSE,FALSE,Never,4
+TRUE,17,Female,Never,0.59,67,White,0-8,FALSE,FALSE,Never,4
+TRUE,5,Female,Never,0.79,71,White,0-8,FALSE,FALSE,<1 time per month,3
+TRUE,21,Female,Never,0.84,69,White,11-Sep,FALSE,TRUE,Never,5
+TRUE,16,Female,Never,0.65,65,White,0-8,FALSE,TRUE,Never,0
+TRUE,21,Female,Current,9.98,53,White,College Grad,TRUE,FALSE,Just about everyday/everyday,5
+TRUE,21,Female,Never,NA,71,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,2
+TRUE,11,Male,Current,1.29,61,Nonwhite,11-Sep,FALSE,FALSE,1-4 times per month,3
+TRUE,21,Female,Former,4.94,66,White,12,FALSE,TRUE,Never,4
+TRUE,13,Female,Never,2,48,White,11-Sep,TRUE,FALSE,Never,2
+TRUE,21,Male,Never,1.41,50,White,Missing,TRUE,TRUE,2+ times per week,5
+TRUE,4,Male,Current,0.92,70,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+TRUE,21,Female,Current,NA,49,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,0
+TRUE,9,Male,Former,0.98,69,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,5,Female,Former,0.89,71,White,Some College,FALSE,TRUE,<1 time per month,5
+TRUE,21,Female,Former,0.35,47,White,0-8,FALSE,TRUE,<1 time per month,4
+TRUE,21,Female,Never,1.75,69,White,0-8,FALSE,FALSE,Never,5
+TRUE,2,Male,Never,1.8,71,White,0-8,FALSE,TRUE,<1 time per month,5
+TRUE,12,Male,Never,1.94,72,White,12,FALSE,TRUE,<1 time per month,4
+TRUE,19,Female,Never,2.6,66,White,College Grad,FALSE,FALSE,Just about everyday/everyday,5
+TRUE,9,Female,Never,0.9,73,White,0-8,FALSE,FALSE,<1 time per month,3
+TRUE,21,Female,Former,4.43,51,White,12,FALSE,TRUE,<1 time per month,3
+TRUE,19,Male,Former,1.79,50,White,12,TRUE,TRUE,Just about everyday/everyday,5
+TRUE,12,Female,Never,0.58,45,White,0-8,FALSE,TRUE,Never,1
+TRUE,21,Female,Current,0.96,53,Nonwhite,Some College,FALSE,FALSE,<1 time per month,5
+TRUE,21,Male,Current,1.15,52,Nonwhite,0-8,TRUE,TRUE,2+ times per week,4
+TRUE,3,Female,Current,0.24,57,White,12,FALSE,FALSE,Never,2
+TRUE,7,Female,Current,2.05,71,White,0-8,FALSE,TRUE,Never,4
+TRUE,21,Male,Former,0.32,48,Nonwhite,0-8,FALSE,FALSE,Never,2
+TRUE,10,Male,Current,NA,53,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,7,Male,Current,3.36,72,White,11-Sep,FALSE,TRUE,<1 time per month,4
+TRUE,12,Female,Current,3.43,67,White,0-8,FALSE,TRUE,Never,5
+TRUE,8,Female,Never,3.36,69,White,0-8,FALSE,TRUE,Never,4
+TRUE,16,Female,Never,4.43,54,White,12,FALSE,TRUE,Never,4
+TRUE,12,Male,Current,3.01,60,White,12,FALSE,TRUE,1-4 times per month,4
+TRUE,7,Female,Never,1.16,74,White,11-Sep,FALSE,FALSE,Never,4
+TRUE,7,Male,Never,3.36,71,White,College Grad,TRUE,TRUE,<1 time per month,4
+TRUE,6,Female,Never,0.58,64,White,0-8,FALSE,FALSE,<1 time per month,5
+TRUE,16,Male,Current,2.92,50,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+TRUE,9,Male,Current,1.16,73,White,0-8,FALSE,FALSE,1-4 times per month,3
+TRUE,21,Male,Former,3.73,52,White,Some College,TRUE,TRUE,1-4 times per month,3
+TRUE,21,Male,Current,1.41,66,White,12,FALSE,TRUE,Just about everyday/everyday,4
+TRUE,14,Female,Never,3.16,74,White,11-Sep,FALSE,TRUE,Never,1
+TRUE,9,Male,Former,0.81,68,White,0-8,FALSE,FALSE,Never,2
+TRUE,20,Female,Never,1.14,71,White,12,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,5.85,50,White,12,TRUE,TRUE,Never,2
+TRUE,6,Male,Former,1.41,70,White,0-8,FALSE,FALSE,Never,4
+TRUE,13,Female,Never,1.18,65,Nonwhite,12,FALSE,FALSE,1-4 times per month,1
+TRUE,14,Female,Never,3.36,71,White,College Grad,FALSE,TRUE,Never,5
+TRUE,21,Female,Former,2.2,52,White,0-8,TRUE,FALSE,1-4 times per month,2
+TRUE,6,Female,Current,2.57,72,Nonwhite,0-8,FALSE,TRUE,Never,3
+TRUE,9,Male,Current,0.75,72,White,11-Sep,FALSE,FALSE,Just about everyday/everyday,2
+TRUE,21,Female,Current,3.01,49,White,Some College,TRUE,TRUE,2+ times per week,3
+TRUE,8,Male,Current,2.63,66,White,0-8,FALSE,FALSE,1-4 times per month,2
+TRUE,21,Female,Never,0.99,51,White,11-Sep,FALSE,FALSE,Never,1
+TRUE,9,Female,Current,NA,69,White,0-8,FALSE,FALSE,Never,4
+TRUE,3,Male,Current,1,65,White,0-8,FALSE,TRUE,<1 time per month,4
+TRUE,21,Female,Never,1.61,52,Nonwhite,11-Sep,FALSE,TRUE,2+ times per week,2
+TRUE,20,Female,Former,0.66,72,White,0-8,FALSE,FALSE,Never,2
+TRUE,21,Female,Current,0.65,68,Nonwhite,0-8,FALSE,TRUE,Never,2
+TRUE,13,Male,Current,2.57,73,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,21,Female,Never,1.63,74,White,0-8,FALSE,FALSE,Never,4
+TRUE,21,Female,Never,2.54,53,White,11-Sep,FALSE,TRUE,Never,5
+TRUE,21,Female,Never,2.43,68,White,0-8,FALSE,TRUE,Never,2
+TRUE,21,Female,Current,2.63,50,White,Some College,TRUE,FALSE,<1 time per month,2
+TRUE,5,Female,Current,1.3,72,Nonwhite,0-8,FALSE,FALSE,Never,4
+TRUE,17,Male,Former,0.65,71,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,1
+TRUE,16,Female,Never,1.26,72,White,0-8,FALSE,FALSE,Never,2
+TRUE,21,Male,Never,1.5,53,White,12,TRUE,TRUE,Never,3
+TRUE,21,Female,Current,0.4,68,Nonwhite,0-8,FALSE,FALSE,Never,1
+TRUE,10,Male,Current,0.39,65,White,0-8,FALSE,TRUE,2+ times per week,3
+TRUE,15,Female,Never,0.3,57,Nonwhite,0-8,FALSE,FALSE,Never,4
+TRUE,5,Female,Current,0.82,52,White,11-Sep,FALSE,FALSE,1-4 times per month,2
+TRUE,21,Female,Former,0.42,55,Nonwhite,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,0.89,71,White,11-Sep,FALSE,FALSE,Never,3
+TRUE,9,Female,Current,2.3,65,White,0-8,TRUE,FALSE,<1 time per month,5
+TRUE,21,Female,Former,0.51,65,Nonwhite,0-8,TRUE,FALSE,Never,2
+TRUE,21,Female,Never,3.12,46,Nonwhite,11-Sep,TRUE,FALSE,Never,0
+TRUE,14,Female,Never,1.3,71,White,11-Sep,TRUE,TRUE,Never,2
+TRUE,11,Male,Former,1.72,67,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,6,Female,Never,0.72,74,White,0-8,FALSE,FALSE,Never,3
+TRUE,11,Female,Never,1.5,74,White,0-8,FALSE,FALSE,Never,2
+TRUE,6,Female,Never,1.53,74,Nonwhite,0-8,FALSE,FALSE,Never,1
+TRUE,13,Female,Current,0.72,48,White,0-8,FALSE,FALSE,<1 time per month,1
+TRUE,12,Female,Current,1.28,67,White,11-Sep,FALSE,FALSE,Never,3
+TRUE,14,Male,Current,0.22,57,White,0-8,TRUE,FALSE,1-4 times per month,4
+TRUE,21,Female,Current,1.3,45,Nonwhite,Some College,TRUE,FALSE,1-4 times per month,5
+TRUE,21,Female,Never,1.25,50,Nonwhite,11-Sep,TRUE,TRUE,Never,4
+TRUE,21,Female,Never,1.7,47,Nonwhite,12,FALSE,FALSE,Never,1
+TRUE,13,Female,Never,0.38,72,White,11-Sep,FALSE,FALSE,Never,4
+TRUE,14,Male,Current,1.45,70,White,11-Sep,TRUE,TRUE,Never,2
+TRUE,7,Female,Never,1.47,63,White,0-8,FALSE,FALSE,Never,2
+TRUE,21,Female,Never,0.75,66,White,0-8,FALSE,TRUE,Never,3
+TRUE,7,Female,Never,0.21,72,Nonwhite,0-8,FALSE,FALSE,Never,3
+TRUE,9,Male,Former,NA,70,White,0-8,FALSE,TRUE,Never,5
+TRUE,20,Female,Never,4.91,65,White,12,TRUE,TRUE,Never,4
+TRUE,13,Female,Never,1.79,65,White,12,TRUE,FALSE,<1 time per month,5
+TRUE,8,Male,Never,NA,66,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,19,Female,Current,2.09,57,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,1
+TRUE,19,Male,Current,2.12,65,White,0-8,FALSE,TRUE,<1 time per month,1
+TRUE,19,Male,Current,1.59,65,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,19,Female,Never,2.83,66,White,11-Sep,FALSE,TRUE,<1 time per month,5
+TRUE,3,Male,Never,1.57,67,White,0-8,FALSE,FALSE,2+ times per week,5
+TRUE,21,Female,Never,1.03,70,White,12,FALSE,FALSE,<1 time per month,4
+TRUE,10,Female,Never,0.92,65,White,11-Sep,FALSE,FALSE,Never,2
+TRUE,11,Female,Current,2.15,69,White,0-8,FALSE,TRUE,Never,2
+TRUE,16,Female,Never,2.02,70,White,College Grad,FALSE,TRUE,<1 time per month,4
+TRUE,21,Female,Never,0.9,69,Nonwhite,0-8,FALSE,FALSE,Never,0
+TRUE,4,Female,Never,0.75,72,White,0-8,FALSE,FALSE,Never,2
+TRUE,3,Male,Current,NA,66,White,0-8,FALSE,TRUE,2+ times per week,3
+TRUE,13,Female,Never,NA,68,White,12,FALSE,FALSE,<1 time per month,3
+TRUE,6,Male,Current,2.06,64,White,0-8,FALSE,TRUE,Never,3
+TRUE,5,Male,Current,1.61,62,White,0-8,FALSE,TRUE,Never,3
+TRUE,21,Female,Never,0.84,66,White,0-8,FALSE,FALSE,Never,5
+TRUE,10,Male,Current,0.66,71,White,0-8,FALSE,TRUE,<1 time per month,2
+TRUE,7,Male,Current,0.61,68,White,11-Sep,FALSE,TRUE,<1 time per month,4
+TRUE,5,Female,Never,3.01,69,White,0-8,FALSE,TRUE,Never,5
+TRUE,21,Male,Former,2.83,57,White,12,TRUE,TRUE,1-4 times per month,5
+TRUE,21,Female,Never,4.91,49,White,Some College,FALSE,TRUE,Never,4
+TRUE,21,Female,Never,2.18,69,White,Some College,FALSE,FALSE,<1 time per month,3
+TRUE,21,Male,Former,3.87,50,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+TRUE,6,Male,Current,2.16,50,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+TRUE,21,Male,Never,2.93,65,White,12,FALSE,TRUE,Never,4
+TRUE,13,Female,Never,2.93,63,White,12,FALSE,TRUE,Never,5
+TRUE,16,Male,Former,1.15,66,White,12,FALSE,TRUE,<1 time per month,5
+TRUE,21,Male,Current,2.21,54,White,Some College,FALSE,TRUE,1-4 times per month,1
+TRUE,8,Male,Former,3.67,67,White,12,FALSE,FALSE,1-4 times per month,5
+TRUE,17,Female,Former,2.93,66,White,12,FALSE,TRUE,2+ times per week,5
+TRUE,21,Female,Never,0.29,62,Nonwhite,0-8,FALSE,FALSE,Never,5
+TRUE,12,Female,Never,1.03,72,Nonwhite,12,FALSE,TRUE,Never,3
+TRUE,10,Male,Former,0.85,68,White,0-8,FALSE,TRUE,<1 time per month,1
+TRUE,5,Female,Never,NA,67,Nonwhite,0-8,FALSE,TRUE,Never,4
+TRUE,17,Male,Never,1.18,61,Nonwhite,0-8,TRUE,TRUE,Never,4
+TRUE,8,Female,Never,0.44,72,Nonwhite,0-8,FALSE,FALSE,Never,2
+TRUE,19,Female,Never,0.14,65,Nonwhite,0-8,FALSE,FALSE,Never,0
+TRUE,21,Female,Never,0.71,58,White,11-Sep,FALSE,TRUE,Never,2
+TRUE,21,Female,Current,0.65,46,White,0-8,FALSE,FALSE,Never,4
+TRUE,21,Female,Never,0.54,65,Nonwhite,0-8,FALSE,FALSE,Never,4
+TRUE,7,Male,Current,6.04,70,White,College Grad,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,21,Female,Current,3.26,57,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+TRUE,14,Female,Current,0.52,74,White,11-Sep,FALSE,FALSE,Never,3
+TRUE,21,Male,Never,4.56,48,White,12,TRUE,TRUE,Never,5
+TRUE,20,Male,Former,2.16,54,White,0-8,TRUE,TRUE,Never,3
+TRUE,20,Male,Former,6.96,50,White,Some College,TRUE,TRUE,2+ times per week,5
+TRUE,21,Female,Former,5.11,48,White,College Grad,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,10,Female,Never,8.34,61,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+TRUE,21,Female,Never,1.14,52,White,11-Sep,FALSE,TRUE,2+ times per week,3
+TRUE,14,Male,Current,1.46,62,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,21,Male,Current,8.34,53,White,12,TRUE,TRUE,Just about everyday/everyday,4
+TRUE,21,Female,Current,NA,45,White,Missing,FALSE,TRUE,1-4 times per month,4
+TRUE,20,Female,Never,1.2,69,White,11-Sep,FALSE,FALSE,<1 time per month,5
+TRUE,21,Female,Never,1.67,67,White,12,TRUE,TRUE,1-4 times per month,2
+TRUE,13,Female,Never,NA,70,White,11-Sep,FALSE,TRUE,Never,5
+TRUE,21,Female,Current,1.09,67,White,0-8,FALSE,FALSE,<1 time per month,0
+TRUE,4,Male,Current,6.46,73,White,0-8,FALSE,FALSE,1-4 times per month,4
+TRUE,8,Female,Never,0.61,72,White,0-8,FALSE,FALSE,<1 time per month,5
+TRUE,9,Female,Former,0.54,59,White,12,FALSE,FALSE,<1 time per month,0
+TRUE,18,Male,Never,1.82,67,White,0-8,FALSE,TRUE,2+ times per week,5
+TRUE,5,Male,Former,6.04,65,White,College Grad,FALSE,TRUE,<1 time per month,5
+TRUE,21,Female,Former,2.63,62,White,11-Sep,FALSE,TRUE,<1 time per month,5
+TRUE,21,Female,Current,3.26,47,White,12,FALSE,TRUE,2+ times per week,2
+TRUE,21,Male,Never,6.96,62,White,College Grad,TRUE,TRUE,1-4 times per month,4
+TRUE,21,Female,Never,4.95,52,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+TRUE,12,Male,Never,1.07,70,White,12,FALSE,TRUE,1-4 times per month,2
+TRUE,13,Male,Current,1.32,74,White,11-Sep,FALSE,TRUE,2+ times per week,1
+TRUE,10,Male,Current,2.35,73,White,0-8,FALSE,FALSE,<1 time per month,1
+TRUE,21,Female,Never,1.73,55,White,0-8,FALSE,TRUE,Never,3
+TRUE,7,Female,Never,2.02,69,White,0-8,FALSE,TRUE,<1 time per month,5
+TRUE,10,Male,Current,6.51,65,White,College Grad,TRUE,TRUE,<1 time per month,5
+TRUE,9,Male,Never,1.11,70,White,Some College,FALSE,FALSE,Just about everyday/everyday,4
+TRUE,21,Female,Current,1.68,50,White,12,FALSE,TRUE,Never,4
+TRUE,6,Male,Current,3.87,74,White,0-8,TRUE,FALSE,<1 time per month,4
+TRUE,13,Male,Former,2.38,74,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+TRUE,21,Female,Never,2.38,74,White,0-8,FALSE,TRUE,Never,5
+TRUE,21,Female,Never,4.17,59,White,12,FALSE,TRUE,1-4 times per month,0
+TRUE,16,Female,Current,3.51,46,White,0-8,TRUE,TRUE,Never,1
+TRUE,12,Female,Never,0.24,74,White,11-Sep,FALSE,FALSE,Never,1
+TRUE,4,Male,Current,4.17,62,White,11-Sep,FALSE,TRUE,2+ times per week,4
+TRUE,21,Female,Never,2.38,46,White,Some College,TRUE,FALSE,Just about everyday/everyday,5
+TRUE,21,Female,Current,4.2,49,White,12,TRUE,TRUE,1-4 times per month,4
+TRUE,21,Male,Former,2.49,66,White,11-Sep,FALSE,TRUE,<1 time per month,1
+TRUE,21,Male,Never,0.73,51,White,12,FALSE,TRUE,<1 time per month,3
+TRUE,21,Male,Current,3.85,49,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+TRUE,21,Female,Never,1.71,66,White,11-Sep,FALSE,FALSE,<1 time per month,2
+TRUE,11,Female,Never,1.06,67,White,0-8,FALSE,FALSE,1-4 times per month,2
+TRUE,10,Male,Current,0.77,67,White,0-8,FALSE,TRUE,Just about everyday/everyday,0
+TRUE,21,Female,Current,3.84,62,White,12,TRUE,FALSE,Just about everyday/everyday,5
+TRUE,21,Female,Never,NA,66,White,0-8,FALSE,FALSE,<1 time per month,0
+TRUE,17,Male,Never,2.93,65,White,Some College,FALSE,TRUE,Never,2
+TRUE,21,Female,Current,2.21,58,White,12,FALSE,TRUE,Never,5
+TRUE,21,Male,Former,1.87,48,White,College Grad,TRUE,TRUE,Never,5
+TRUE,16,Male,Never,1.11,74,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,19,Male,Former,1.76,73,White,0-8,FALSE,TRUE,1-4 times per month,3
+TRUE,21,Female,Never,1.17,51,White,0-8,FALSE,FALSE,1-4 times per month,1
+TRUE,20,Male,Former,8.36,66,White,12,TRUE,TRUE,2+ times per week,4
+TRUE,6,Male,Never,2.21,70,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,6,Male,Current,1,50,White,11-Sep,FALSE,FALSE,1-4 times per month,5
+TRUE,21,Female,Never,0.91,70,Nonwhite,0-8,FALSE,FALSE,<1 time per month,5
+TRUE,21,Male,Current,1.14,67,White,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Never,1.84,65,Nonwhite,0-8,FALSE,TRUE,Never,5
+TRUE,17,Female,Never,0.83,70,White,0-8,FALSE,FALSE,Never,3
+TRUE,21,Female,Current,1.47,48,White,0-8,FALSE,TRUE,2+ times per week,3
+TRUE,6,Female,Former,0.79,70,White,0-8,FALSE,TRUE,Never,1
+TRUE,10,Male,Current,2.35,70,White,0-8,FALSE,TRUE,Never,4
+TRUE,17,Female,Never,0.94,74,White,0-8,FALSE,FALSE,Never,1
+TRUE,14,Male,Never,0.65,69,White,0-8,FALSE,TRUE,1-4 times per month,5
+TRUE,12,Female,Never,0.83,65,White,0-8,FALSE,FALSE,Never,0
+TRUE,4,Male,Current,0.17,50,Nonwhite,0-8,FALSE,TRUE,Never,2
+TRUE,7,Male,Former,0.65,56,White,0-8,FALSE,TRUE,Never,4
+TRUE,6,Male,Current,2.93,69,White,11-Sep,FALSE,TRUE,Never,5
+TRUE,3,Female,Current,0.69,46,Nonwhite,0-8,TRUE,FALSE,<1 time per month,3
+TRUE,7,Male,Current,4.15,68,White,11-Sep,FALSE,TRUE,<1 time per month,4
+TRUE,13,Male,Current,NA,58,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Current,NA,54,White,12,FALSE,TRUE,1-4 times per month,NA
+TRUE,8,Female,Never,NA,70,White,12,FALSE,FALSE,2+ times per week,NA
+TRUE,21,Female,Current,NA,53,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+TRUE,8,Male,Former,NA,55,White,0-8,TRUE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Never,NA,74,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+TRUE,21,Female,Current,NA,45,White,12,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Former,NA,61,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Male,Current,NA,54,White,12,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,15,Female,Current,NA,61,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+TRUE,16,Female,Former,NA,69,White,0-8,FALSE,FALSE,2+ times per week,NA
+TRUE,16,Male,Former,NA,58,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Male,Never,NA,59,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,20,Male,Current,NA,63,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Never,NA,51,White,Some College,FALSE,TRUE,<1 time per month,NA
+TRUE,21,Female,Former,NA,52,White,0-8,FALSE,TRUE,1-4 times per month,NA
+TRUE,7,Male,Current,NA,57,White,0-8,FALSE,FALSE,Never,NA
+TRUE,21,Female,Current,NA,65,White,0-8,FALSE,FALSE,2+ times per week,NA
+TRUE,21,Female,Never,NA,54,White,12,TRUE,FALSE,Never,NA
+TRUE,5,Female,Never,NA,72,White,0-8,FALSE,FALSE,Never,NA
+TRUE,17,Female,Current,NA,57,White,12,TRUE,TRUE,2+ times per week,NA
+TRUE,21,Female,Never,NA,64,White,12,FALSE,FALSE,Never,NA
+TRUE,21,Male,Current,NA,72,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,NA
+TRUE,9,Female,Current,NA,51,White,11-Sep,FALSE,TRUE,Never,NA
+TRUE,6,Male,Current,NA,66,White,0-8,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Never,NA,47,White,11-Sep,TRUE,TRUE,Never,NA
+TRUE,8,Male,Current,NA,73,White,0-8,TRUE,TRUE,1-4 times per month,NA
+TRUE,13,Male,Current,NA,50,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+TRUE,21,Female,Never,NA,50,White,11-Sep,TRUE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,45,White,12,FALSE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,52,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Former,NA,48,White,Some College,FALSE,TRUE,<1 time per month,NA
+TRUE,15,Male,Former,NA,61,White,12,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Male,Current,NA,53,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,17,Female,Former,NA,54,White,0-8,FALSE,FALSE,1-4 times per month,NA
+TRUE,5,Female,Never,NA,73,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,NA
+TRUE,18,Female,Never,NA,48,Nonwhite,11-Sep,TRUE,FALSE,1-4 times per month,NA
+TRUE,21,Male,Never,NA,50,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,9,Male,Former,NA,64,White,College Grad,FALSE,TRUE,2+ times per week,NA
+TRUE,15,Female,Current,NA,64,White,12,FALSE,FALSE,Just about everyday/everyday,NA
+TRUE,21,Male,Former,NA,48,Nonwhite,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Never,NA,67,White,11-Sep,FALSE,FALSE,Never,NA
+TRUE,10,Male,Current,NA,56,White,0-8,FALSE,TRUE,1-4 times per month,NA
+TRUE,10,Female,Never,NA,71,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Former,NA,55,White,12,TRUE,FALSE,Just about everyday/everyday,NA
+TRUE,21,Female,Current,NA,52,White,0-8,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Male,Former,NA,55,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Current,NA,56,White,12,TRUE,FALSE,<1 time per month,NA
+TRUE,17,Female,Never,NA,46,Nonwhite,0-8,FALSE,FALSE,<1 time per month,NA
+TRUE,21,Female,Current,NA,55,Nonwhite,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Female,Current,NA,49,White,0-8,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Never,NA,52,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,14,Female,Current,NA,60,White,11-Sep,FALSE,FALSE,<1 time per month,NA
+TRUE,21,Female,Current,NA,58,White,12,TRUE,FALSE,1-4 times per month,NA
+TRUE,12,Female,Never,NA,61,White,11-Sep,FALSE,TRUE,Never,NA
+TRUE,13,Female,Current,NA,55,White,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,71,White,0-8,FALSE,FALSE,Never,NA
+TRUE,21,Female,Never,NA,65,White,11-Sep,FALSE,TRUE,Never,NA
+TRUE,21,Male,Former,NA,66,Nonwhite,0-8,FALSE,TRUE,2+ times per week,NA
+TRUE,16,Female,Former,NA,68,White,0-8,FALSE,TRUE,Never,NA
+TRUE,11,Male,Former,NA,67,Nonwhite,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Male,Never,NA,45,White,College Grad,TRUE,TRUE,Never,NA
+TRUE,21,Male,Current,NA,53,White,College Grad,TRUE,TRUE,1-4 times per month,NA
+TRUE,4,Male,Current,NA,54,White,0-8,FALSE,FALSE,Never,NA
+TRUE,21,Female,Never,NA,72,White,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Male,Never,NA,46,White,12,TRUE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Never,NA,52,White,12,TRUE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,66,White,0-8,FALSE,TRUE,<1 time per month,NA
+TRUE,21,Male,Current,NA,58,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Current,NA,56,White,11-Sep,TRUE,FALSE,1-4 times per month,NA
+TRUE,21,Male,Former,NA,71,White,0-8,TRUE,TRUE,1-4 times per month,NA
+TRUE,10,Male,Current,NA,71,White,0-8,FALSE,TRUE,1-4 times per month,NA
+TRUE,17,Male,Former,NA,65,White,0-8,FALSE,TRUE,Never,NA
+TRUE,12,Female,Never,NA,64,White,11-Sep,FALSE,FALSE,<1 time per month,NA
+TRUE,21,Female,Current,NA,49,White,College Grad,TRUE,TRUE,<1 time per month,NA
+TRUE,20,Female,Never,NA,54,White,0-8,FALSE,FALSE,<1 time per month,NA
+TRUE,21,Male,Former,NA,58,White,Some College,TRUE,FALSE,2+ times per week,NA
+TRUE,21,Male,Current,NA,57,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Male,Current,NA,52,White,12,FALSE,TRUE,<1 time per month,NA
+TRUE,21,Female,Current,NA,52,White,12,FALSE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Female,Never,NA,46,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Male,Former,NA,46,White,College Grad,TRUE,TRUE,2+ times per week,NA
+TRUE,21,Female,Current,NA,62,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Current,NA,48,Nonwhite,12,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,17,Male,Current,NA,74,White,0-8,FALSE,TRUE,Never,NA
+TRUE,12,Male,Never,NA,56,White,12,TRUE,TRUE,1-4 times per month,NA
+TRUE,21,Female,Never,NA,57,White,Some College,FALSE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,47,White,12,FALSE,FALSE,Never,NA
+TRUE,11,Male,Current,NA,58,White,11-Sep,TRUE,FALSE,2+ times per week,NA
+TRUE,21,Male,Former,NA,61,Nonwhite,College Grad,TRUE,TRUE,<1 time per month,NA
+TRUE,21,Female,Current,NA,49,Nonwhite,Some College,TRUE,TRUE,1-4 times per month,NA
+TRUE,18,Female,Current,NA,52,Nonwhite,0-8,TRUE,FALSE,2+ times per week,NA
+TRUE,21,Male,Never,NA,51,Nonwhite,College Grad,TRUE,TRUE,1-4 times per month,NA
+TRUE,15,Female,Current,NA,57,White,11-Sep,TRUE,FALSE,Never,NA
+TRUE,21,Male,Current,NA,50,Nonwhite,12,TRUE,TRUE,2+ times per week,NA
+TRUE,21,Female,Never,NA,62,Nonwhite,11-Sep,TRUE,FALSE,Never,NA
+TRUE,14,Male,Never,NA,52,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+TRUE,21,Male,Never,NA,67,White,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Female,Current,NA,72,White,0-8,FALSE,FALSE,1-4 times per month,NA
+TRUE,18,Male,Former,NA,72,White,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Female,Current,NA,47,White,11-Sep,TRUE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,57,White,0-8,FALSE,TRUE,Never,NA
+TRUE,21,Female,Never,NA,51,White,0-8,FALSE,FALSE,Never,NA
+TRUE,4,Male,Current,NA,45,White,College Grad,FALSE,FALSE,Just about everyday/everyday,NA
+TRUE,18,Male,Former,NA,60,White,0-8,FALSE,TRUE,2+ times per week,NA
+FALSE,16,Male,Current,1.52,74,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,3.11,53,Nonwhite,12,TRUE,TRUE,1-4 times per month,3
+FALSE,13,Male,Never,9.18,65,White,College Grad,TRUE,FALSE,2+ times per week,2
+FALSE,21,Female,Current,2.62,47,Nonwhite,11-Sep,TRUE,TRUE,Never,4
+FALSE,17,Male,Current,2.62,53,Nonwhite,11-Sep,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,15,Female,Never,1.26,60,Nonwhite,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,10,Male,Never,0.52,66,White,12,FALSE,TRUE,Never,5
+FALSE,10,Female,Current,1.63,68,White,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,10,Male,Never,1.48,67,Nonwhite,12,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,6.41,48,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,19,Male,Never,7.7,48,White,12,TRUE,FALSE,2+ times per week,5
+FALSE,21,Male,Former,2.65,69,White,12,TRUE,TRUE,Never,5
+FALSE,10,Male,Current,4.55,51,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,8.24,51,White,Some College,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,4.58,56,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,1.85,49,White,12,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,1.5,69,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,1,Male,Current,2.62,70,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,8,Male,Former,NA,72,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,1.43,66,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,0.95,60,White,11-Sep,TRUE,FALSE,Never,5
+FALSE,21,Female,Never,1.74,47,Nonwhite,12,FALSE,TRUE,1-4 times per month,3
+FALSE,16,Male,Never,5.39,59,White,0-8,TRUE,FALSE,Never,5
+FALSE,21,Female,Never,4.58,57,White,12,TRUE,TRUE,<1 time per month,0
+FALSE,7,Male,Never,3.47,71,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,2.67,67,White,0-8,FALSE,FALSE,<1 time per month,5
+FALSE,21,Female,Current,3.58,47,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Current,NA,49,White,Some College,TRUE,FALSE,Never,4
+FALSE,16,Male,Current,2.65,74,White,12,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,2.65,70,White,0-8,FALSE,TRUE,1-4 times per month,2
+FALSE,11,Female,Never,3.15,70,White,11-Sep,FALSE,FALSE,Never,5
+FALSE,13,Female,Never,1.81,71,White,0-8,FALSE,TRUE,Never,2
+FALSE,2,Male,Current,4.58,64,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,2,Male,Former,0.87,58,Nonwhite,0-8,FALSE,FALSE,Never,5
+FALSE,21,Female,Never,3.02,49,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Never,3.47,66,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,3.85,60,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,4.58,47,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,1
+FALSE,21,Male,Never,2.62,71,White,11-Sep,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,2.62,65,White,11-Sep,FALSE,TRUE,2+ times per week,3
+FALSE,17,Female,Never,1.94,70,White,12,FALSE,FALSE,2+ times per week,3
+FALSE,8,Male,Current,1.81,73,White,0-8,FALSE,TRUE,Never,5
+FALSE,18,Male,Current,2.56,47,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,1,Female,Never,0.36,71,Nonwhite,0-8,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,15,Female,Former,4.58,52,White,12,TRUE,TRUE,Just about everyday/everyday,1
+FALSE,21,Female,Never,1.04,48,White,College Grad,TRUE,FALSE,<1 time per month,4
+FALSE,21,Male,Current,3.85,60,White,Some College,TRUE,FALSE,2+ times per week,5
+FALSE,21,Male,Former,NA,48,White,Missing,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,15,Male,Current,4.58,53,White,11-Sep,TRUE,FALSE,2+ times per week,5
+FALSE,21,Female,Never,2.05,46,White,12,TRUE,TRUE,Never,1
+FALSE,21,Female,Never,2,63,White,0-8,FALSE,TRUE,Never,1
+FALSE,14,Male,Never,0.73,70,White,0-8,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Current,1.42,56,White,12,FALSE,TRUE,<1 time per month,4
+FALSE,4,Female,Never,1.97,50,White,12,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Current,6.04,47,White,College Grad,TRUE,TRUE,<1 time per month,4
+FALSE,14,Male,Current,2.62,53,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,3.11,52,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,2.62,57,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,16,Male,Never,3.58,71,Nonwhite,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,4.61,47,White,Some College,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,2.07,48,White,12,TRUE,FALSE,1-4 times per month,5
+FALSE,13,Male,Former,3.11,61,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,3.11,46,White,12,FALSE,TRUE,<1 time per month,2
+FALSE,17,Male,Current,4.58,62,White,12,TRUE,TRUE,Never,5
+FALSE,15,Male,Never,2.62,69,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,18,Male,Former,NA,61,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,9,Male,Never,2.04,70,White,College Grad,FALSE,TRUE,1-4 times per month,5
+FALSE,18,Female,Never,NA,63,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,13,Female,Never,0.89,74,Nonwhite,11-Sep,TRUE,FALSE,Never,5
+FALSE,20,Female,Never,1.29,57,Nonwhite,11-Sep,TRUE,FALSE,1-4 times per month,4
+FALSE,16,Male,Former,1.84,72,White,11-Sep,FALSE,FALSE,2+ times per week,5
+FALSE,18,Male,Never,2,68,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,5.1,67,Nonwhite,0-8,TRUE,TRUE,Never,5
+FALSE,14,Female,Never,1.69,71,White,12,FALSE,FALSE,<1 time per month,4
+FALSE,21,Male,Former,3.02,47,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,1.26,52,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Current,4.55,54,Nonwhite,College Grad,TRUE,TRUE,2+ times per week,4
+FALSE,19,Female,Never,3.85,62,White,12,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,0.69,67,White,11-Sep,FALSE,FALSE,<1 time per month,2
+FALSE,15,Male,Former,0.8,69,Nonwhite,0-8,FALSE,FALSE,Never,2
+FALSE,21,Female,Never,5.1,64,Nonwhite,11-Sep,FALSE,TRUE,Never,5
+FALSE,11,Male,Current,0.46,48,Nonwhite,12,FALSE,TRUE,1-4 times per month,5
+FALSE,18,Female,Never,4.58,59,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Male,Former,6.41,51,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Current,3.11,57,Nonwhite,11-Sep,FALSE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,1.9,53,Nonwhite,11-Sep,TRUE,FALSE,1-4 times per month,1
+FALSE,21,Male,Never,3.9,52,White,0-8,TRUE,FALSE,1-4 times per month,4
+FALSE,3,Male,Current,1.74,56,White,11-Sep,TRUE,TRUE,2+ times per week,3
+FALSE,21,Male,Current,6.41,50,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Current,4.58,56,White,0-8,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,19,Female,Never,NA,62,Nonwhite,0-8,TRUE,TRUE,<1 time per month,1
+FALSE,6,Male,Current,1.4,71,Nonwhite,0-8,FALSE,TRUE,Just about everyday/everyday,2
+FALSE,14,Female,Never,9.05,65,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Current,NA,66,White,0-8,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,20,Female,Current,0.78,66,White,0-8,TRUE,FALSE,Just about everyday/everyday,3
+FALSE,16,Male,Current,3.47,65,White,Some College,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,2,Male,Never,1.22,67,White,11-Sep,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,4.58,58,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Current,1.65,47,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,13,Male,Former,1.74,53,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,16,Male,Former,3.11,60,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,12,Female,Never,1.55,72,White,0-8,FALSE,FALSE,Just about everyday/everyday,3
+FALSE,13,Male,Never,8.24,63,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,17,Male,Former,5.1,65,White,College Grad,FALSE,TRUE,Just about everyday/everyday,2
+FALSE,21,Male,Former,4.58,64,White,College Grad,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,5,Male,Never,NA,74,White,Missing,FALSE,TRUE,<1 time per month,1
+FALSE,21,Female,Current,3.23,54,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,5
+FALSE,21,Male,Former,1.26,48,Nonwhite,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,2.05,47,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,0.5,66,Nonwhite,0-8,FALSE,TRUE,<1 time per month,3
+FALSE,14,Male,Never,1.52,71,Nonwhite,11-Sep,FALSE,TRUE,Never,2
+FALSE,13,Female,Never,4.43,49,Nonwhite,Some College,TRUE,TRUE,1-4 times per month,4
+FALSE,18,Male,Former,6.2,58,White,12,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Male,Current,1.99,61,Nonwhite,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,8,Male,Former,4.94,66,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Current,4.08,51,Nonwhite,11-Sep,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,3.47,49,White,Some College,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Current,5.22,56,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Male,Current,2.54,55,Nonwhite,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Current,6.2,58,White,12,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,11,Male,Current,3.01,46,Nonwhite,12,TRUE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,0.93,65,White,12,FALSE,FALSE,1-4 times per month,5
+FALSE,17,Female,Never,1.24,65,White,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,19,Male,Never,0.52,68,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,8,Male,Never,0.23,59,White,0-8,TRUE,FALSE,Never,5
+FALSE,21,Male,Never,6.04,58,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,3.47,54,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Current,1.9,52,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,5.1,68,White,College Grad,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,1.17,51,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,7,Male,Never,2.38,65,White,0-8,FALSE,TRUE,2+ times per week,5
+FALSE,18,Male,Never,4.23,58,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,4.58,51,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,19,Male,Former,4.58,49,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,15,Male,Current,4.23,65,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.01,53,White,12,FALSE,TRUE,<1 time per month,5
+FALSE,16,Male,Former,7.7,65,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,10,Male,Current,0.58,57,Nonwhite,Missing,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Current,5.44,59,Nonwhite,12,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,4.34,71,White,0-8,FALSE,FALSE,2+ times per week,5
+FALSE,21,Female,Never,2.07,61,White,0-8,FALSE,FALSE,<1 time per month,4
+FALSE,21,Male,Former,4.58,59,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,3.47,59,White,11-Sep,FALSE,TRUE,2+ times per week,2
+FALSE,20,Male,Former,6.04,47,White,College Grad,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Current,1.69,59,Nonwhite,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,12,Male,Former,2.58,46,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Current,1.85,49,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,5,Male,Never,2.45,67,White,0-8,TRUE,TRUE,Never,4
+FALSE,21,Female,Never,1.31,67,White,11-Sep,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Never,2.4,56,White,0-8,TRUE,FALSE,Never,3
+FALSE,21,Female,Never,1.55,50,White,12,TRUE,TRUE,1-4 times per month,2
+FALSE,21,Female,Never,1.94,52,White,0-8,FALSE,FALSE,1-4 times per month,2
+FALSE,21,Female,Never,NA,52,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,1.28,69,White,12,TRUE,FALSE,<1 time per month,4
+FALSE,14,Male,Never,9.98,71,White,College Grad,TRUE,TRUE,Never,5
+FALSE,21,Male,Current,3.02,46,White,12,TRUE,TRUE,1-4 times per month,0
+FALSE,17,Male,Never,0.48,69,White,0-8,FALSE,FALSE,Never,4
+FALSE,21,Female,Never,3.85,50,White,11-Sep,TRUE,TRUE,2+ times per week,2
+FALSE,21,Female,Never,2.72,54,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,11,Male,Former,3.85,59,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,8,Female,Current,0.51,51,Nonwhite,11-Sep,FALSE,FALSE,1-4 times per month,3
+FALSE,21,Male,Former,4.58,47,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,5.39,58,White,12,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,1.98,53,White,11-Sep,TRUE,FALSE,Never,2
+FALSE,8,Female,Never,1.89,60,White,11-Sep,TRUE,FALSE,1-4 times per month,3
+FALSE,21,Male,Never,5.38,50,White,Some College,TRUE,TRUE,<1 time per month,4
+FALSE,14,Female,Never,2.55,74,White,12,FALSE,FALSE,<1 time per month,3
+FALSE,21,Male,Current,1.74,51,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,18,Male,Never,2.05,56,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,21,Male,Former,6.41,57,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.01,45,White,12,TRUE,TRUE,1-4 times per month,1
+FALSE,14,Male,Former,6.41,60,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,17,Male,Former,1.37,68,White,0-8,FALSE,TRUE,<1 time per month,0
+FALSE,21,Female,Never,2.07,49,White,0-8,TRUE,FALSE,<1 time per month,1
+FALSE,21,Male,Current,1.95,68,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,0.59,45,Nonwhite,11-Sep,FALSE,FALSE,Never,2
+FALSE,15,Male,Current,2.62,58,White,0-8,TRUE,TRUE,<1 time per month,3
+FALSE,3,Male,Never,1.56,69,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Male,Former,2.62,55,White,Some College,TRUE,TRUE,Never,5
+FALSE,19,Female,Current,3.29,65,White,11-Sep,FALSE,FALSE,Never,5
+FALSE,21,Male,Never,3.47,69,White,Some College,FALSE,TRUE,Never,4
+FALSE,21,Male,Former,6.41,53,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Current,0.81,66,Nonwhite,0-8,TRUE,FALSE,1-4 times per month,5
+FALSE,18,Female,Never,3.11,54,White,12,TRUE,TRUE,Never,4
+FALSE,13,Male,Former,1.19,73,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Former,2.22,57,White,12,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,1.95,67,White,11-Sep,TRUE,FALSE,Never,3
+FALSE,18,Male,Current,3.09,48,White,0-8,TRUE,TRUE,Never,4
+FALSE,21,Female,Never,1.56,54,White,12,FALSE,TRUE,Never,4
+FALSE,21,Female,Current,4.58,46,White,11-Sep,TRUE,TRUE,1-4 times per month,3
+FALSE,17,Male,Never,NA,57,Nonwhite,Missing,TRUE,FALSE,Never,3
+FALSE,21,Female,Current,0.92,68,White,12,TRUE,TRUE,Never,4
+FALSE,8,Male,Never,1.44,72,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,13,Female,Never,4.21,63,White,0-8,TRUE,FALSE,Never,0
+FALSE,21,Female,Never,3.11,55,White,11-Sep,TRUE,TRUE,<1 time per month,3
+FALSE,21,Female,Never,1.53,61,White,Some College,FALSE,FALSE,Never,3
+FALSE,2,Male,Former,0.75,67,Nonwhite,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,12,Female,Never,3.47,65,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Male,Current,5.39,48,White,College Grad,TRUE,TRUE,2+ times per week,5
+FALSE,9,Male,Former,3.47,73,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,1.65,62,Nonwhite,11-Sep,TRUE,FALSE,1-4 times per month,5
+FALSE,8,Female,Never,3.23,72,Nonwhite,12,FALSE,FALSE,Never,3
+FALSE,21,Female,Never,1.24,66,Nonwhite,11-Sep,FALSE,FALSE,<1 time per month,1
+FALSE,3,Male,Current,6.93,71,White,11-Sep,FALSE,FALSE,<1 time per month,5
+FALSE,21,Male,Never,4.58,60,White,0-8,TRUE,TRUE,Just about everyday/everyday,1
+FALSE,17,Female,Never,1.03,74,White,0-8,FALSE,FALSE,Never,3
+FALSE,13,Male,Former,2.24,73,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,20,Male,Current,NA,58,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,4.58,54,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,3.23,57,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,3,Female,Current,2.05,55,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,12,Female,Never,0.69,69,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,1,Female,Never,0.85,55,Nonwhite,0-8,FALSE,TRUE,Never,2
+FALSE,21,Male,Current,6.91,65,White,College Grad,FALSE,TRUE,2+ times per week,4
+FALSE,20,Female,Current,1.34,65,White,Some College,FALSE,FALSE,1-4 times per month,3
+FALSE,17,Male,Never,4.09,65,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Current,2.54,56,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,7,Male,Current,2.54,72,White,College Grad,TRUE,TRUE,2+ times per week,4
+FALSE,17,Female,Current,NA,68,White,12,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,3.01,64,White,12,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,NA,47,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,8.86,56,White,12,FALSE,TRUE,2+ times per week,5
+FALSE,13,Female,Current,2.6,60,White,Some College,TRUE,FALSE,<1 time per month,5
+FALSE,16,Male,Former,1.68,58,White,12,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Current,3.01,58,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,3.01,48,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,1.62,66,White,Some College,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,16,Male,Former,NA,71,White,12,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,1.09,55,Nonwhite,11-Sep,TRUE,FALSE,Never,1
+FALSE,21,Male,Current,0.49,66,Nonwhite,0-8,FALSE,TRUE,Never,4
+FALSE,11,Female,Never,3.36,67,White,12,FALSE,TRUE,Never,4
+FALSE,14,Male,Former,4.94,67,White,College Grad,FALSE,TRUE,Never,5
+FALSE,14,Male,Current,4.43,51,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Former,4.08,60,White,College Grad,TRUE,FALSE,1-4 times per month,5
+FALSE,12,Male,Current,6.2,55,White,12,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,3.22,50,White,12,FALSE,TRUE,Never,5
+FALSE,21,Male,Former,3.73,46,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,16,Male,Never,3.36,73,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,2.76,63,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,2.92,46,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,12,Male,Former,3.36,65,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,4.43,51,White,11-Sep,TRUE,TRUE,1-4 times per month,2
+FALSE,15,Female,Current,4.43,54,White,12,FALSE,TRUE,2+ times per week,2
+FALSE,17,Male,Current,3.01,59,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,21,Male,Current,2.48,52,White,12,TRUE,TRUE,Never,5
+FALSE,14,Female,Former,4.09,65,Nonwhite,0-8,TRUE,TRUE,Never,2
+FALSE,20,Male,Current,2.22,59,White,12,TRUE,FALSE,2+ times per week,4
+FALSE,15,Male,Never,1.03,69,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,13,Female,Never,3.47,65,White,Some College,TRUE,FALSE,1-4 times per month,5
+FALSE,13,Female,Never,0.75,73,Nonwhite,0-8,TRUE,FALSE,Never,1
+FALSE,8,Male,Never,3.01,60,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,21,Male,Never,0.58,57,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,21,Female,Current,6.2,46,White,12,TRUE,FALSE,Just about everyday/everyday,1
+FALSE,4,Male,Former,4.09,66,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Former,1.45,65,White,0-8,FALSE,FALSE,Never,5
+FALSE,19,Male,Current,1.22,71,White,0-8,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,20,Male,Current,1.42,54,White,0-8,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,0.88,49,White,0-8,FALSE,TRUE,1-4 times per month,1
+FALSE,21,Female,Former,0.86,57,White,0-8,TRUE,FALSE,<1 time per month,2
+FALSE,21,Male,Never,1.49,60,White,0-8,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Never,1.99,48,White,12,TRUE,TRUE,2+ times per week,4
+FALSE,12,Female,Current,6.2,64,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,12,Female,Never,1.93,65,Nonwhite,Some College,TRUE,FALSE,1-4 times per month,3
+FALSE,18,Male,Current,0.44,58,White,12,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,NA,65,White,11-Sep,TRUE,TRUE,Never,1
+FALSE,20,Male,Never,2.39,58,White,0-8,TRUE,TRUE,Never,5
+FALSE,4,Male,Current,1.26,65,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,21,Female,Current,0.91,68,Nonwhite,0-8,TRUE,FALSE,1-4 times per month,2
+FALSE,13,Male,Current,1.33,67,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,1.75,60,White,0-8,TRUE,TRUE,Never,4
+FALSE,20,Male,Never,0.58,69,Nonwhite,0-8,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,0.75,67,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,0.44,74,White,0-8,FALSE,FALSE,Never,4
+FALSE,11,Female,Never,9.88,68,White,Some College,FALSE,TRUE,Never,4
+FALSE,20,Female,Current,3.22,45,Nonwhite,0-8,TRUE,TRUE,<1 time per month,0
+FALSE,13,Male,Current,3.77,48,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,21,Male,Current,0.59,68,Nonwhite,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,14,Female,Never,0.59,69,Nonwhite,0-8,FALSE,TRUE,Never,5
+FALSE,20,Male,Never,1.55,66,White,0-8,FALSE,TRUE,Never,5
+FALSE,15,Male,Former,0.7,71,Nonwhite,0-8,FALSE,FALSE,<1 time per month,2
+FALSE,21,Male,Current,1.04,71,White,0-8,FALSE,TRUE,Never,4
+FALSE,16,Male,Current,3.73,51,White,11-Sep,TRUE,TRUE,<1 time per month,3
+FALSE,18,Male,Never,1.01,69,Nonwhite,0-8,FALSE,TRUE,Never,5
+FALSE,18,Female,Never,0.36,74,Nonwhite,11-Sep,FALSE,FALSE,<1 time per month,2
+FALSE,15,Male,Never,2.24,72,White,0-8,FALSE,TRUE,Never,5
+FALSE,9,Female,Never,NA,69,White,College Grad,FALSE,FALSE,Never,4
+FALSE,21,Female,Never,1.33,68,Nonwhite,0-8,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,0.83,64,White,0-8,FALSE,FALSE,Never,3
+FALSE,16,Male,Current,0.77,56,Nonwhite,0-8,TRUE,FALSE,Never,3
+FALSE,21,Male,Current,2.2,45,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,7,Male,Former,0.51,73,Nonwhite,0-8,TRUE,TRUE,Never,3
+FALSE,21,Male,Current,2.92,51,White,0-8,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,7,Male,Current,8.89,68,White,11-Sep,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,1.33,60,White,11-Sep,TRUE,FALSE,Never,0
+FALSE,2,Male,Never,0.48,64,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,1
+FALSE,21,Male,Current,3.73,55,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,10,Male,Former,0.91,69,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,0.38,47,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,7,Male,Current,4.4,52,White,11-Sep,TRUE,TRUE,<1 time per month,5
+FALSE,15,Female,Never,0.71,64,Nonwhite,0-8,FALSE,FALSE,Never,1
+FALSE,21,Female,Never,3.54,50,White,0-8,FALSE,TRUE,Never,3
+FALSE,6,Female,Never,0.24,74,Nonwhite,0-8,FALSE,FALSE,Never,0
+FALSE,21,Female,Never,1.22,51,Nonwhite,0-8,FALSE,TRUE,<1 time per month,3
+FALSE,21,Female,Never,1.92,65,White,0-8,FALSE,FALSE,Never,3
+FALSE,12,Female,Never,1.79,68,White,0-8,FALSE,FALSE,Never,4
+FALSE,18,Male,Never,2.54,59,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,12,Female,Never,1.07,65,Nonwhite,0-8,FALSE,TRUE,Never,4
+FALSE,21,Male,Former,6.91,65,White,12,TRUE,TRUE,Never,5
+FALSE,12,Male,Never,3.36,72,White,Some College,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,3.01,47,White,12,TRUE,TRUE,<1 time per month,4
+FALSE,21,Male,Former,8.89,66,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Current,1.13,64,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,16,Female,Never,0.47,67,Nonwhite,0-8,FALSE,FALSE,<1 time per month,2
+FALSE,5,Female,Never,0.65,70,White,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Former,1.06,51,Nonwhite,0-8,TRUE,TRUE,Never,4
+FALSE,5,Male,Never,2.13,57,White,0-8,TRUE,TRUE,Never,1
+FALSE,5,Female,Never,NA,70,White,11-Sep,FALSE,FALSE,Never,4
+FALSE,21,Male,Former,1.26,45,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,9,Male,Never,0.93,65,Nonwhite,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,16,Male,Former,0.8,68,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,19,Male,Current,2.08,56,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,0.25,54,Nonwhite,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,1.83,65,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,1.85,55,White,0-8,TRUE,TRUE,1-4 times per month,0
+FALSE,21,Male,Former,0.55,68,White,0-8,FALSE,TRUE,Never,2
+FALSE,4,Male,Never,1.51,74,Nonwhite,0-8,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,1.1,65,White,0-8,FALSE,FALSE,Never,3
+FALSE,21,Male,Never,4.4,54,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,1.13,45,White,11-Sep,TRUE,TRUE,1-4 times per month,3
+FALSE,8,Male,Never,0.56,65,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Male,Former,2.29,51,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,10,Female,Never,0.66,73,White,0-8,FALSE,FALSE,2+ times per week,5
+FALSE,11,Female,Current,0.4,69,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,0.21,65,White,0-8,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Never,1.04,45,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,18,Male,Never,0.69,69,White,0-8,FALSE,FALSE,1-4 times per month,3
+FALSE,15,Female,Never,1.01,49,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,2.38,54,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,18,Female,Never,0.85,67,White,0-8,FALSE,FALSE,Never,1
+FALSE,6,Male,Never,0.18,61,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,0.82,53,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,2.33,47,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,15,Male,Current,0.71,49,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,12,Male,Current,0.7,63,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,1.42,50,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,1.07,67,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Male,Former,0.53,58,White,0-8,TRUE,TRUE,Never,4
+FALSE,20,Male,Never,NA,65,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,3.54,57,White,College Grad,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,3.01,57,White,11-Sep,FALSE,TRUE,<1 time per month,3
+FALSE,10,Male,Current,0.92,63,Nonwhite,0-8,TRUE,TRUE,2+ times per week,4
+FALSE,13,Male,Former,2.33,47,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,1.5,52,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Male,Current,2.13,60,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,3,Male,Never,0.35,68,Nonwhite,0-8,FALSE,TRUE,Never,1
+FALSE,20,Female,Never,0.7,48,White,12,FALSE,TRUE,Never,3
+FALSE,3,Male,Current,NA,64,White,0-8,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,0.75,54,Nonwhite,0-8,TRUE,FALSE,Never,4
+FALSE,21,Female,Never,4.25,68,White,Some College,FALSE,FALSE,<1 time per month,4
+FALSE,10,Male,Current,0.38,47,Nonwhite,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Never,3.36,65,White,Missing,TRUE,FALSE,<1 time per month,3
+FALSE,16,Male,Never,1.19,71,White,0-8,TRUE,TRUE,Never,5
+FALSE,15,Male,Never,0.79,60,Nonwhite,11-Sep,FALSE,TRUE,Just about everyday/everyday,0
+FALSE,21,Female,Current,1.62,60,White,12,FALSE,TRUE,Never,2
+FALSE,10,Female,Never,0.81,66,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,1.5,61,White,12,FALSE,TRUE,2+ times per week,3
+FALSE,21,Male,Never,0.65,67,Nonwhite,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,14,Male,Current,2.2,50,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,4.43,50,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,3.73,51,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,14,Male,Current,NA,65,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,17,Male,Current,1.5,50,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Never,NA,50,White,12,TRUE,TRUE,Never,5
+FALSE,20,Male,Never,3.95,65,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,2,Male,Current,1.81,65,White,0-8,TRUE,TRUE,Never,3
+FALSE,21,Male,Never,0.44,74,Nonwhite,0-8,FALSE,FALSE,Never,4
+FALSE,21,Male,Current,0.77,65,White,0-8,FALSE,TRUE,<1 time per month,1
+FALSE,21,Male,Never,1.99,50,White,0-8,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Never,4.43,64,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Current,NA,56,Nonwhite,12,TRUE,TRUE,2+ times per week,1
+FALSE,11,Male,Never,3.36,67,White,0-8,TRUE,FALSE,1-4 times per month,5
+FALSE,21,Male,Current,2.3,52,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,8,Male,Current,3.36,66,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,8,Female,Current,0.83,66,White,0-8,FALSE,FALSE,<1 time per month,4
+FALSE,21,Female,Current,1.04,68,White,Some College,FALSE,FALSE,Never,3
+FALSE,21,Female,Current,4.43,49,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,16,Female,Never,1.78,71,White,12,FALSE,TRUE,Never,4
+FALSE,4,Male,Current,1.35,69,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,4.94,69,White,0-8,FALSE,TRUE,Never,5
+FALSE,5,Female,Former,2.57,65,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,21,Male,Current,7.77,49,White,12,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,21,Female,Never,3.54,64,White,0-8,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,1.98,49,White,12,FALSE,TRUE,Never,3
+FALSE,21,Male,Former,3.54,64,White,11-Sep,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,3.01,54,White,12,FALSE,TRUE,<1 time per month,3
+FALSE,4,Female,Never,0.79,69,White,12,FALSE,TRUE,Never,4
+FALSE,3,Male,Current,1.88,73,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,1.38,65,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,1.51,52,White,12,TRUE,TRUE,Never,3
+FALSE,21,Male,Current,1.99,57,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,11,Male,Former,1.19,69,White,12,FALSE,TRUE,Never,2
+FALSE,21,Male,Former,0.76,57,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,20,Female,Never,1.27,73,White,11-Sep,FALSE,TRUE,Never,1
+FALSE,21,Female,Never,1.09,68,White,0-8,FALSE,TRUE,Never,1
+FALSE,21,Female,Never,1.62,62,White,11-Sep,FALSE,TRUE,1-4 times per month,5
+FALSE,20,Female,Former,4.43,66,White,12,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,2.57,69,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Former,3.01,54,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,1.19,68,White,Some College,FALSE,TRUE,Never,3
+FALSE,9,Male,Former,5.22,59,White,0-8,TRUE,TRUE,1-4 times per month,1
+FALSE,18,Male,Former,1.27,73,White,0-8,TRUE,TRUE,Never,5
+FALSE,15,Female,Current,6,60,White,12,TRUE,FALSE,1-4 times per month,1
+FALSE,21,Female,Never,2.57,65,White,12,FALSE,TRUE,1-4 times per month,1
+FALSE,10,Female,Never,2.48,67,White,0-8,FALSE,FALSE,<1 time per month,0
+FALSE,4,Female,Never,3.36,69,White,0-8,FALSE,TRUE,Never,5
+FALSE,14,Female,Former,NA,66,White,Some College,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,7,Male,Former,3.36,71,White,11-Sep,FALSE,TRUE,1-4 times per month,5
+FALSE,14,Female,Never,1.17,66,White,12,FALSE,FALSE,<1 time per month,5
+FALSE,12,Female,Current,2.5,74,White,0-8,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,21,Male,Never,3.47,47,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,14,Female,Never,3.36,72,White,11-Sep,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,1.19,49,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,2.92,54,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,2.15,65,White,0-8,FALSE,TRUE,1-4 times per month,5
+FALSE,9,Female,Never,2.92,52,White,11-Sep,TRUE,TRUE,<1 time per month,4
+FALSE,20,Male,Former,1.5,45,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,8.86,45,White,Some College,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,3.36,56,White,11-Sep,TRUE,FALSE,<1 time per month,5
+FALSE,16,Female,Former,4.41,48,White,12,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Never,3.36,69,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,2.75,70,White,College Grad,FALSE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,2.99,51,White,11-Sep,FALSE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,3.36,71,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Current,3.77,53,White,12,TRUE,FALSE,1-4 times per month,5
+FALSE,21,Male,Current,6.2,54,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,0.67,49,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,14,Female,Current,0.57,55,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Current,6,47,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,14,Male,Former,5.55,58,White,College Grad,TRUE,FALSE,2+ times per week,5
+FALSE,9,Female,Current,3.36,69,White,Some College,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Current,7.98,61,White,12,FALSE,TRUE,2+ times per week,2
+FALSE,21,Male,Current,NA,49,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Former,0.81,54,Nonwhite,0-8,FALSE,FALSE,<1 time per month,0
+FALSE,15,Male,Former,0.76,67,Nonwhite,0-8,FALSE,FALSE,Never,1
+FALSE,19,Female,Never,2.09,64,White,College Grad,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,4.25,66,White,11-Sep,FALSE,FALSE,1-4 times per month,5
+FALSE,20,Male,Current,1.99,47,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,11,Male,Never,3.36,74,Nonwhite,Missing,FALSE,TRUE,Never,3
+FALSE,21,Male,Current,4.43,51,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,1.2,50,Nonwhite,College Grad,FALSE,FALSE,<1 time per month,1
+FALSE,14,Male,Former,9.98,55,White,12,TRUE,FALSE,Just about everyday/everyday,5
+FALSE,21,Female,Former,1.06,65,Nonwhite,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,21,Female,Never,6.2,49,White,Some College,TRUE,FALSE,<1 time per month,4
+FALSE,19,Male,Never,8.07,57,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Former,3.77,58,White,College Grad,TRUE,FALSE,Just about everyday/everyday,5
+FALSE,21,Female,Never,1.34,60,White,12,FALSE,TRUE,Never,1
+FALSE,20,Female,Never,1.45,67,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,3,Male,Former,0.64,74,White,11-Sep,FALSE,FALSE,Just about everyday/everyday,4
+FALSE,21,Female,Never,2.92,45,White,12,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Current,1.84,61,White,12,FALSE,TRUE,Never,5
+FALSE,14,Female,Current,6.91,67,White,12,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,3.38,65,White,12,FALSE,FALSE,1-4 times per month,5
+FALSE,21,Male,Never,3.01,60,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,7.46,48,White,College Grad,FALSE,TRUE,<1 time per month,5
+FALSE,18,Male,Never,1.53,66,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,1
+FALSE,21,Female,Never,1.91,66,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,13,Male,Former,3.36,69,White,Some College,TRUE,TRUE,Never,3
+FALSE,17,Male,Never,2.38,61,Nonwhite,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,11,Female,Never,1.99,65,Nonwhite,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Former,4.43,56,White,12,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,1.6,60,White,12,FALSE,TRUE,Never,2
+FALSE,19,Female,Never,0.93,67,Nonwhite,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Current,8.89,57,White,College Grad,FALSE,TRUE,2+ times per week,4
+FALSE,21,Male,Never,1.15,54,Nonwhite,11-Sep,TRUE,FALSE,Just about everyday/everyday,2
+FALSE,21,Female,Never,0.89,59,White,0-8,FALSE,FALSE,Never,2
+FALSE,21,Female,Never,1.46,52,White,12,TRUE,FALSE,2+ times per week,5
+FALSE,15,Male,Current,2.18,72,White,12,FALSE,FALSE,Never,3
+FALSE,21,Male,Never,4.2,72,White,College Grad,FALSE,FALSE,<1 time per month,4
+FALSE,21,Female,Never,4.25,65,White,College Grad,TRUE,FALSE,Never,5
+FALSE,19,Female,Never,3.13,73,White,11-Sep,TRUE,FALSE,Never,4
+FALSE,21,Female,Never,7.29,59,White,12,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Current,1.93,53,White,11-Sep,FALSE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,1.69,74,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,14,Male,Former,2.54,65,White,12,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,1.86,70,White,Some College,FALSE,TRUE,Never,2
+FALSE,21,Male,Former,4.09,55,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Former,6.71,49,White,12,TRUE,TRUE,1-4 times per month,2
+FALSE,21,Female,Never,1.65,67,White,12,FALSE,TRUE,Never,5
+FALSE,17,Female,Never,3.95,70,White,0-8,TRUE,TRUE,<1 time per month,2
+FALSE,21,Male,Never,5.21,61,White,11-Sep,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Never,3.43,60,White,12,TRUE,TRUE,Never,4
+FALSE,21,Male,Current,2.92,49,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,17,Female,Current,4.25,68,White,11-Sep,TRUE,FALSE,1-4 times per month,5
+FALSE,18,Male,Current,NA,69,White,12,TRUE,TRUE,<1 time per month,2
+FALSE,21,Male,Never,9.98,71,White,College Grad,TRUE,FALSE,Just about everyday/everyday,5
+FALSE,18,Female,Current,2.54,47,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,14,Male,Current,6.71,50,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,3.73,45,Nonwhite,Some College,TRUE,TRUE,Never,5
+FALSE,8,Female,Never,3.36,68,White,11-Sep,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Former,5.85,63,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,1.51,51,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Female,Never,2.22,53,Nonwhite,0-8,TRUE,FALSE,1-4 times per month,2
+FALSE,21,Male,Never,3.22,56,Nonwhite,Some College,TRUE,TRUE,<1 time per month,5
+FALSE,18,Female,Never,4.25,74,Nonwhite,0-8,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Former,4.43,46,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Never,2.42,72,White,0-8,FALSE,TRUE,1-4 times per month,5
+FALSE,12,Male,Current,0.4,59,White,11-Sep,TRUE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,2.57,65,White,0-8,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Former,1.39,68,White,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,2.48,45,Nonwhite,12,TRUE,TRUE,Never,1
+FALSE,21,Female,Former,NA,52,Nonwhite,11-Sep,TRUE,FALSE,Never,5
+FALSE,12,Male,Never,1.59,74,White,0-8,FALSE,TRUE,2+ times per week,3
+FALSE,21,Male,Former,3.73,54,White,Some College,TRUE,TRUE,<1 time per month,4
+FALSE,21,Female,Current,5.26,46,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Former,2.11,54,White,11-Sep,TRUE,FALSE,1-4 times per month,0
+FALSE,21,Female,Never,3.73,51,White,11-Sep,TRUE,TRUE,<1 time per month,4
+FALSE,17,Male,Former,6.71,73,Nonwhite,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Male,Never,2.92,51,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,8,Female,Never,2.42,71,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,14,Male,Current,1.61,74,White,0-8,FALSE,FALSE,Just about everyday/everyday,1
+FALSE,8,Female,Current,1.87,63,White,12,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Former,1.99,55,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,2.83,54,White,12,FALSE,TRUE,2+ times per week,0
+FALSE,19,Male,Never,3.72,72,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,12,Male,Former,3.16,66,White,12,FALSE,TRUE,Never,5
+FALSE,21,Male,Former,2.33,45,White,12,TRUE,TRUE,Never,4
+FALSE,18,Male,Current,8.14,66,White,12,FALSE,FALSE,1-4 times per month,4
+FALSE,21,Female,Former,7.01,49,White,College Grad,FALSE,TRUE,2+ times per week,4
+FALSE,21,Male,Never,9.29,67,White,Some College,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,1.68,65,White,0-8,FALSE,TRUE,Just about everyday/everyday,0
+FALSE,19,Male,Current,3.16,68,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,3.16,63,White,12,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.16,70,White,0-8,FALSE,TRUE,<1 time per month,3
+FALSE,21,Female,Never,2.05,67,White,12,FALSE,FALSE,Never,4
+FALSE,21,Female,Never,2.83,67,White,11-Sep,FALSE,TRUE,2+ times per week,3
+FALSE,15,Female,Current,0.28,66,White,11-Sep,FALSE,FALSE,<1 time per month,4
+FALSE,19,Male,Current,2.75,53,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Former,2.9,54,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,21,Female,Never,2.83,59,White,12,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,2.44,67,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Former,2.9,46,White,12,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,4.91,61,White,0-8,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,1.35,66,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,1.63,67,White,11-Sep,FALSE,FALSE,1-4 times per month,0
+FALSE,19,Male,Former,0.85,65,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,18,Female,Never,4.94,71,White,Some College,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Former,1.29,45,White,11-Sep,FALSE,TRUE,<1 time per month,3
+FALSE,21,Male,Current,2.48,48,White,12,TRUE,TRUE,2+ times per week,4
+FALSE,14,Female,Never,1.77,71,White,0-8,FALSE,FALSE,Never,3
+FALSE,21,Male,Former,6.2,48,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,8,Female,Never,0.96,68,White,0-8,FALSE,TRUE,Never,2
+FALSE,21,Male,Current,1.68,48,White,11-Sep,TRUE,TRUE,1-4 times per month,2
+FALSE,13,Female,Never,0.85,60,White,11-Sep,FALSE,TRUE,Never,4
+FALSE,19,Male,Never,9.98,62,White,Some College,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,2.99,57,White,Some College,TRUE,TRUE,Never,5
+FALSE,19,Male,Current,2.92,64,White,College Grad,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,1.22,72,White,Some College,FALSE,FALSE,Just about everyday/everyday,3
+FALSE,21,Male,Never,2.03,66,White,0-8,FALSE,FALSE,2+ times per week,5
+FALSE,13,Male,Current,0.74,65,White,11-Sep,FALSE,FALSE,1-4 times per month,4
+FALSE,14,Male,Current,1.49,71,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,21,Female,Current,2.21,64,White,Some College,TRUE,FALSE,1-4 times per month,4
+FALSE,20,Male,Never,3.36,74,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,2.51,66,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Male,Never,4.43,62,White,12,TRUE,TRUE,1-4 times per month,3
+FALSE,2,Male,Former,3.73,71,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,1.54,66,White,0-8,FALSE,TRUE,<1 time per month,1
+FALSE,16,Female,Never,2.16,64,White,Some College,TRUE,FALSE,Never,2
+FALSE,17,Male,Former,1.22,57,Nonwhite,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,10,Female,Current,3.36,65,White,11-Sep,FALSE,TRUE,<1 time per month,5
+FALSE,18,Female,Never,4.25,65,White,11-Sep,TRUE,FALSE,Never,3
+FALSE,20,Male,Current,2.63,65,White,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,15,Male,Former,NA,69,White,12,TRUE,FALSE,2+ times per week,4
+FALSE,21,Female,Former,1.83,63,White,0-8,FALSE,FALSE,Never,3
+FALSE,21,Female,Never,1.77,69,White,0-8,FALSE,TRUE,Never,5
+FALSE,19,Male,Current,0.96,65,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,2.54,50,White,11-Sep,FALSE,TRUE,Never,4
+FALSE,21,Female,Current,0.97,67,Nonwhite,11-Sep,FALSE,TRUE,Never,0
+FALSE,17,Male,Former,3.36,65,White,0-8,FALSE,TRUE,Never,4
+FALSE,17,Female,Never,0.73,73,White,0-8,TRUE,FALSE,Never,5
+FALSE,16,Male,Never,0.73,48,White,0-8,TRUE,FALSE,Never,5
+FALSE,21,Male,Never,3.73,66,Nonwhite,Some College,TRUE,TRUE,Never,4
+FALSE,7,Male,Former,1.35,72,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Male,Current,3.47,47,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,13,Male,Former,1.22,60,White,0-8,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,2.61,57,White,0-8,FALSE,TRUE,Never,5
+FALSE,9,Male,Never,1.89,73,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Male,Current,2.31,52,White,0-8,TRUE,FALSE,Just about everyday/everyday,1
+FALSE,11,Male,Current,2.54,72,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Current,3.18,65,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,4
+FALSE,21,Female,Never,0.52,65,Nonwhite,0-8,FALSE,FALSE,Never,2
+FALSE,10,Male,Current,0.8,65,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,20,Male,Current,1.45,66,White,12,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,17,Female,Never,1.52,72,White,0-8,FALSE,FALSE,Never,3
+FALSE,3,Male,Current,1.93,65,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,17,Female,Never,0.89,74,White,0-8,FALSE,TRUE,Never,3
+FALSE,18,Male,Former,1.14,71,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.16,66,White,College Grad,FALSE,TRUE,Never,5
+FALSE,12,Male,Current,2.26,68,White,11-Sep,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,0.68,71,Nonwhite,0-8,FALSE,FALSE,1-4 times per month,0
+FALSE,13,Male,Never,4.52,67,White,College Grad,TRUE,TRUE,1-4 times per month,4
+FALSE,3,Female,Never,1.43,68,White,12,FALSE,TRUE,Never,5
+FALSE,21,Male,Never,8.29,46,White,Some College,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,1.45,68,White,0-8,FALSE,TRUE,Never,3
+FALSE,20,Female,Former,1.18,68,White,0-8,FALSE,TRUE,Never,0
+FALSE,3,Male,Never,2.35,73,Nonwhite,0-8,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,0.49,57,White,Some College,FALSE,FALSE,Never,4
+FALSE,16,Male,Current,0.81,64,White,0-8,FALSE,TRUE,<1 time per month,1
+FALSE,18,Male,Former,1.87,60,White,12,FALSE,TRUE,<1 time per month,5
+FALSE,7,Male,Current,1.08,70,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Current,2.38,60,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,14,Male,Former,0.7,70,White,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,0.67,52,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,1.99,60,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,18,Male,Current,0.74,57,White,12,FALSE,FALSE,Never,4
+FALSE,13,Male,Current,3.51,50,White,College Grad,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,4.15,46,White,12,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,4.91,48,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,12,Male,Current,4.15,53,Nonwhite,0-8,TRUE,TRUE,Never,4
+FALSE,21,Male,Never,3.16,65,White,College Grad,FALSE,TRUE,Never,5
+FALSE,21,Male,Never,0.78,46,Nonwhite,0-8,TRUE,TRUE,Never,4
+FALSE,21,Male,Former,1.16,66,White,0-8,FALSE,FALSE,Never,4
+FALSE,18,Male,Current,0.56,68,White,0-8,FALSE,FALSE,2+ times per week,5
+FALSE,21,Female,Never,0.33,62,Nonwhite,0-8,FALSE,FALSE,Never,0
+FALSE,18,Female,Never,3.38,70,White,College Grad,FALSE,FALSE,Never,4
+FALSE,21,Female,Never,3.38,65,White,College Grad,FALSE,FALSE,Never,2
+FALSE,21,Female,Never,2.48,51,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,4.43,49,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Former,NA,48,White,11-Sep,TRUE,FALSE,Never,2
+FALSE,5,Female,Current,2.63,47,White,Some College,FALSE,FALSE,1-4 times per month,2
+FALSE,21,Female,Current,3.01,64,White,12,FALSE,TRUE,Just about everyday/everyday,1
+FALSE,21,Female,Current,8.86,47,White,Some College,FALSE,TRUE,2+ times per week,3
+FALSE,21,Female,Never,2.54,52,White,12,TRUE,TRUE,2+ times per week,3
+FALSE,21,Female,Never,1.99,50,White,12,FALSE,TRUE,1-4 times per month,5
+FALSE,19,Male,Never,3.01,58,Nonwhite,Some College,TRUE,TRUE,1-4 times per month,2
+FALSE,21,Male,Current,6.2,52,White,Some College,TRUE,TRUE,1-4 times per month,4
+FALSE,13,Male,Current,2.6,73,White,0-8,TRUE,FALSE,Never,4
+FALSE,18,Male,Former,4.94,65,Nonwhite,College Grad,TRUE,TRUE,Never,3
+FALSE,17,Male,Current,1.77,54,Nonwhite,11-Sep,FALSE,TRUE,<1 time per month,2
+FALSE,21,Female,Former,4.08,57,White,Some College,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,11,Female,Never,0.73,68,White,11-Sep,FALSE,FALSE,<1 time per month,4
+FALSE,21,Female,Current,1.96,47,White,11-Sep,FALSE,TRUE,<1 time per month,1
+FALSE,15,Male,Never,1.46,68,White,0-8,TRUE,FALSE,<1 time per month,4
+FALSE,11,Male,Former,2.16,74,White,Some College,FALSE,TRUE,Never,2
+FALSE,21,Female,Current,1.41,51,White,0-8,TRUE,FALSE,Never,4
+FALSE,10,Male,Never,3.36,74,White,College Grad,FALSE,TRUE,Never,5
+FALSE,13,Female,Never,1.25,71,White,0-8,TRUE,FALSE,Never,5
+FALSE,21,Male,Never,2.92,51,White,12,TRUE,TRUE,Never,5
+FALSE,20,Male,Current,1.5,49,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,13,Male,Current,0.39,47,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.73,46,White,12,TRUE,TRUE,<1 time per month,1
+FALSE,21,Female,Never,4.43,55,White,11-Sep,TRUE,TRUE,Never,0
+FALSE,15,Male,Current,3.01,50,White,12,TRUE,TRUE,Never,2
+FALSE,21,Female,Never,1.66,60,White,0-8,FALSE,TRUE,Never,1
+FALSE,20,Female,Never,2.16,69,White,Some College,FALSE,TRUE,Never,2
+FALSE,10,Female,Never,0.55,67,White,0-8,FALSE,FALSE,Never,4
+FALSE,21,Female,Never,1.2,55,White,Missing,TRUE,FALSE,Never,4
+FALSE,21,Male,Former,1.02,74,Nonwhite,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Former,8.34,56,White,Some College,FALSE,TRUE,<1 time per month,3
+FALSE,20,Male,Current,0.95,66,Nonwhite,0-8,FALSE,FALSE,Just about everyday/everyday,2
+FALSE,21,Male,Never,7.01,56,White,College Grad,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,14,Male,Former,2.07,50,White,Some College,TRUE,TRUE,2+ times per week,4
+FALSE,18,Male,Current,4.91,55,White,College Grad,TRUE,TRUE,Never,5
+FALSE,13,Male,Never,2.38,69,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,7,Male,Former,5.84,58,White,11-Sep,TRUE,FALSE,1-4 times per month,5
+FALSE,5,Male,Never,0.21,56,Nonwhite,0-8,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,21,Male,Current,2.83,48,Nonwhite,0-8,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Male,Current,3.51,65,White,0-8,FALSE,TRUE,Never,2
+FALSE,16,Female,Never,1.84,72,White,0-8,TRUE,FALSE,Never,0
+FALSE,21,Male,Never,1.87,60,White,Some College,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,2.44,74,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,11,Female,Current,1.92,65,White,Some College,TRUE,FALSE,Never,3
+FALSE,19,Female,Current,1.23,66,White,0-8,FALSE,FALSE,Just about everyday/everyday,2
+FALSE,21,Female,Never,1.17,53,White,0-8,TRUE,FALSE,<1 time per month,3
+FALSE,2,Male,Current,4.17,55,White,12,TRUE,TRUE,2+ times per week,3
+FALSE,21,Female,Never,8.34,60,White,College Grad,TRUE,TRUE,Never,2
+FALSE,21,Female,Former,1.2,73,White,0-8,FALSE,TRUE,Never,0
+FALSE,4,Male,Current,2.38,52,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,12,Male,Current,8.36,66,White,12,FALSE,FALSE,2+ times per week,3
+FALSE,21,Female,Never,4.17,50,White,Some College,TRUE,TRUE,Never,4
+FALSE,21,Male,Former,2.83,64,White,0-8,TRUE,TRUE,2+ times per week,3
+FALSE,21,Male,Never,4.17,57,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,14,Female,Current,0.46,65,White,11-Sep,FALSE,FALSE,Never,2
+FALSE,19,Female,Never,3.16,66,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,1.58,70,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Never,5.46,65,White,12,TRUE,TRUE,Never,5
+FALSE,20,Female,Current,3.16,67,White,12,FALSE,TRUE,Just about everyday/everyday,1
+FALSE,21,Female,Current,3.84,52,White,College Grad,TRUE,FALSE,Never,2
+FALSE,9,Female,Former,6.51,67,White,College Grad,TRUE,TRUE,1-4 times per month,3
+FALSE,20,Female,Current,0.89,70,White,11-Sep,FALSE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,2.12,73,White,12,TRUE,FALSE,Never,3
+FALSE,21,Male,Current,3.26,46,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,10,Male,Never,8.34,60,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Never,4.91,53,White,12,TRUE,TRUE,Never,5
+FALSE,7,Female,Current,3.16,67,White,12,FALSE,TRUE,1-4 times per month,0
+FALSE,16,Female,Never,1.73,65,White,12,FALSE,FALSE,Never,5
+FALSE,21,Female,Never,NA,57,White,11-Sep,TRUE,FALSE,1-4 times per month,4
+FALSE,14,Male,Never,3.72,67,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,3,Male,Never,1.87,68,White,12,FALSE,TRUE,Never,5
+FALSE,21,Male,Former,5.84,60,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,11,Male,Current,NA,70,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Former,4.31,54,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Current,5.84,52,White,11-Sep,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,3.16,63,White,12,FALSE,TRUE,1-4 times per month,5
+FALSE,16,Male,Former,2.07,70,White,11-Sep,FALSE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,1.13,74,White,0-8,FALSE,FALSE,Never,5
+FALSE,21,Male,Former,1.64,73,White,0-8,FALSE,TRUE,Never,5
+FALSE,9,Male,Never,0.7,68,White,0-8,TRUE,TRUE,Never,3
+FALSE,5,Male,Former,2.82,66,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,1.05,66,White,0-8,FALSE,FALSE,Never,4
+FALSE,13,Male,Current,1.86,69,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Current,2.83,48,White,0-8,TRUE,TRUE,Never,2
+FALSE,5,Male,Never,3.72,70,White,0-8,FALSE,TRUE,Never,3
+FALSE,19,Male,Former,2.83,57,White,0-8,FALSE,TRUE,Never,5
+FALSE,19,Male,Never,2.58,66,White,0-8,FALSE,TRUE,Never,3
+FALSE,19,Male,Current,0.9,50,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,1.69,66,White,0-8,FALSE,TRUE,<1 time per month,0
+FALSE,21,Female,Current,3.85,50,White,12,FALSE,TRUE,Never,1
+FALSE,21,Female,Never,1.52,65,White,Some College,FALSE,TRUE,Never,5
+FALSE,11,Male,Current,0.97,65,White,0-8,FALSE,TRUE,Never,1
+FALSE,21,Male,Current,2.38,52,White,0-8,TRUE,TRUE,Never,5
+FALSE,14,Female,Never,1.3,72,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Current,1.12,49,White,0-8,FALSE,FALSE,Never,2
+FALSE,21,Female,Never,3.51,46,White,12,FALSE,TRUE,Never,1
+FALSE,21,Female,Former,2.35,51,White,11-Sep,TRUE,FALSE,<1 time per month,3
+FALSE,16,Male,Never,4.15,65,White,12,TRUE,TRUE,Never,4
+FALSE,17,Female,Never,0.44,59,White,0-8,FALSE,FALSE,Never,4
+FALSE,21,Male,Former,3.16,69,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,17,Male,Never,3.51,60,White,0-8,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,0.77,64,White,0-8,FALSE,FALSE,Never,3
+FALSE,12,Female,Never,0.86,61,White,0-8,FALSE,TRUE,Never,0
+FALSE,21,Male,Current,0.54,50,White,0-8,FALSE,FALSE,Never,3
+FALSE,21,Male,Former,3.51,51,White,Some College,TRUE,TRUE,Never,4
+FALSE,21,Female,Never,4.17,59,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Female,Former,2.19,65,White,12,TRUE,TRUE,Never,3
+FALSE,21,Male,Former,5.84,53,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,19,Male,Former,1.26,67,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Current,2.83,54,White,0-8,TRUE,TRUE,Never,2
+FALSE,21,Female,Never,1.87,47,White,11-Sep,TRUE,TRUE,Never,3
+FALSE,12,Male,Current,1.63,63,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,3.23,54,White,0-8,TRUE,TRUE,<1 time per month,1
+FALSE,21,Male,Never,2.82,52,White,0-8,TRUE,TRUE,Never,2
+FALSE,21,Female,Former,7.5,55,White,College Grad,TRUE,TRUE,Never,4
+FALSE,21,Male,Current,8.34,51,White,11-Sep,TRUE,TRUE,1-4 times per month,3
+FALSE,20,Male,Current,8.29,56,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,10,Male,Never,5.39,68,White,0-8,TRUE,FALSE,Never,4
+FALSE,20,Male,Current,3.67,69,White,College Grad,TRUE,FALSE,2+ times per week,5
+FALSE,5,Male,Current,3.87,48,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,19,Male,Former,2.07,68,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,20,Female,Former,2.93,74,White,12,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,3.26,60,White,12,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,5.86,55,White,Some College,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,16,Female,Never,1.86,74,White,11-Sep,FALSE,TRUE,2+ times per week,2
+FALSE,21,Female,Never,2.63,51,White,12,FALSE,TRUE,2+ times per week,4
+FALSE,3,Male,Former,6.04,66,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Current,5.42,53,White,College Grad,TRUE,TRUE,2+ times per week,4
+FALSE,20,Male,Current,3.87,60,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Never,7.74,55,White,College Grad,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Never,3.87,53,White,Some College,TRUE,TRUE,<1 time per month,4
+FALSE,21,Male,Current,2.15,49,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,9.69,58,White,College Grad,TRUE,TRUE,<1 time per month,4
+FALSE,2,Male,Never,3.51,66,White,Some College,FALSE,TRUE,Never,4
+FALSE,21,Male,Current,1.21,45,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,18,Male,Current,3.51,57,White,12,TRUE,TRUE,2+ times per week,3
+FALSE,19,Male,Current,1.86,58,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,0.27,59,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,1.1,65,White,0-8,FALSE,TRUE,Never,2
+FALSE,18,Male,Current,NA,68,White,Missing,FALSE,TRUE,Never,3
+FALSE,21,Male,Never,1.27,63,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Current,2.9,45,White,College Grad,TRUE,TRUE,1-4 times per month,5
+FALSE,4,Male,Former,2.31,69,White,12,FALSE,TRUE,Never,5
+FALSE,21,Female,Former,4,66,White,College Grad,FALSE,FALSE,Never,3
+FALSE,21,Male,Former,6.87,61,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,6.31,49,White,0-8,TRUE,TRUE,Never,3
+FALSE,3,Female,Never,3.51,65,White,Some College,FALSE,TRUE,Never,1
+FALSE,21,Male,Current,3.51,45,White,12,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Current,9.81,62,White,College Grad,TRUE,TRUE,<1 time per month,4
+FALSE,17,Male,Current,1.61,52,White,11-Sep,TRUE,TRUE,2+ times per week,1
+FALSE,12,Male,Never,2.83,45,Nonwhite,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Current,1.69,57,White,11-Sep,TRUE,TRUE,Never,0
+FALSE,21,Female,Never,4.91,72,White,0-8,FALSE,FALSE,Never,2
+FALSE,17,Female,Current,2.83,54,White,11-Sep,FALSE,TRUE,Never,4
+FALSE,21,Male,Current,3.26,46,White,College Grad,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,2.1,69,White,Some College,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,2.93,66,White,Some College,FALSE,TRUE,Never,2
+FALSE,21,Female,Former,5.46,65,White,Some College,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,21,Female,Former,4.6,54,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,5,Female,Never,0.52,71,White,0-8,FALSE,FALSE,Never,2
+FALSE,19,Male,Current,2.55,56,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,2.93,66,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,5.42,56,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,12,Female,Never,2.69,45,White,12,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,3.89,54,White,12,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,12,Female,Never,6.96,67,White,Some College,FALSE,TRUE,2+ times per week,5
+FALSE,13,Male,Never,2.93,69,White,College Grad,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Current,2.83,51,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,17,Male,Never,4.65,68,White,12,FALSE,TRUE,2+ times per week,5
+FALSE,21,Male,Current,2.75,48,White,0-8,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Current,4.17,68,White,College Grad,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Current,0.17,48,White,11-Sep,FALSE,FALSE,<1 time per month,2
+FALSE,21,Female,Never,1.69,74,White,11-Sep,FALSE,FALSE,Never,5
+FALSE,21,Female,Never,1.13,65,White,College Grad,TRUE,FALSE,<1 time per month,3
+FALSE,21,Female,Never,2.14,63,White,0-8,FALSE,TRUE,1-4 times per month,4
+FALSE,12,Male,Former,2.09,67,White,11-Sep,TRUE,FALSE,1-4 times per month,5
+FALSE,21,Female,Never,1.95,58,White,Some College,FALSE,FALSE,Never,5
+FALSE,20,Male,Former,2.83,63,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,4.17,52,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,2.43,62,White,11-Sep,FALSE,FALSE,<1 time per month,3
+FALSE,10,Female,Never,4.65,66,White,Some College,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,5.64,45,Nonwhite,Some College,TRUE,FALSE,1-4 times per month,3
+FALSE,21,Male,Never,2.83,59,White,Some College,TRUE,TRUE,<1 time per month,1
+FALSE,5,Male,Never,3.16,65,White,Some College,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Former,8.34,55,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,21,Female,Current,5.5,50,White,Some College,TRUE,TRUE,<1 time per month,2
+FALSE,21,Female,Never,3.85,51,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,15,Male,Former,3.16,72,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,21,Male,Former,0.9,72,Nonwhite,12,FALSE,TRUE,<1 time per month,5
+FALSE,13,Male,Current,2.26,65,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,4.34,66,White,12,FALSE,FALSE,<1 time per month,5
+FALSE,17,Male,Current,3.03,50,White,11-Sep,TRUE,FALSE,<1 time per month,5
+FALSE,19,Female,Never,0.89,47,Nonwhite,0-8,FALSE,FALSE,<1 time per month,2
+FALSE,15,Male,Current,3.87,57,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Current,2.61,55,White,11-Sep,TRUE,FALSE,<1 time per month,4
+FALSE,21,Female,Never,0.9,62,Nonwhite,11-Sep,FALSE,TRUE,Never,4
+FALSE,21,Male,Current,2.55,48,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,3.03,47,White,College Grad,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,1.99,66,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Never,0.78,73,White,12,FALSE,FALSE,Never,4
+FALSE,18,Female,Never,3.16,70,White,11-Sep,FALSE,TRUE,Never,1
+FALSE,16,Male,Never,3.16,67,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,11,Male,Current,1.19,74,White,0-8,FALSE,TRUE,Never,5
+FALSE,17,Male,Current,2.65,64,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,1.78,70,White,0-8,FALSE,TRUE,Never,5
+FALSE,13,Male,Never,1.87,48,White,0-8,TRUE,TRUE,Never,5
+FALSE,15,Male,Current,1.84,65,White,0-8,TRUE,TRUE,Never,2
+FALSE,21,Male,Never,0.93,65,White,0-8,FALSE,TRUE,1-4 times per month,5
+FALSE,16,Female,Never,1.42,66,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,0.55,66,White,0-8,FALSE,FALSE,1-4 times per month,5
+FALSE,9,Male,Never,6.51,67,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,16,Female,Never,2.51,73,White,11-Sep,FALSE,FALSE,Never,5
+FALSE,14,Female,Former,1.58,70,White,11-Sep,TRUE,FALSE,<1 time per month,3
+FALSE,18,Male,Current,1.87,54,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,18,Male,Former,4.15,53,White,0-8,TRUE,TRUE,2+ times per week,4
+FALSE,20,Male,Former,7.46,66,White,0-8,TRUE,TRUE,<1 time per month,5
+FALSE,16,Male,Current,2.12,71,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,15,Male,Current,0.74,72,White,0-8,TRUE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,4.17,51,White,Some College,TRUE,TRUE,1-4 times per month,3
+FALSE,11,Male,Current,3.72,65,White,11-Sep,TRUE,TRUE,<1 time per month,5
+FALSE,11,Male,Current,0.17,58,White,0-8,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,1.21,48,White,0-8,TRUE,TRUE,Never,1
+FALSE,21,Male,Current,4.15,65,White,0-8,FALSE,FALSE,<1 time per month,5
+FALSE,9,Male,Current,2.84,69,White,0-8,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,2.93,55,White,12,TRUE,TRUE,1-4 times per month,2
+FALSE,21,Female,Never,2.33,63,White,12,FALSE,TRUE,<1 time per month,2
+FALSE,21,Male,Never,1.88,56,White,0-8,TRUE,TRUE,2+ times per week,1
+FALSE,21,Female,Never,2.35,45,White,College Grad,TRUE,TRUE,1-4 times per month,4
+FALSE,17,Female,Current,1.29,50,White,Some College,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,8.83,67,White,College Grad,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,0.66,52,White,0-8,TRUE,FALSE,<1 time per month,4
+FALSE,10,Male,Never,1.19,65,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Never,1.87,48,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,4.91,54,White,Some College,FALSE,TRUE,1-4 times per month,1
+FALSE,21,Female,Former,3.51,54,White,0-8,TRUE,TRUE,<1 time per month,2
+FALSE,21,Female,Never,6.51,56,White,0-8,FALSE,TRUE,Never,3
+FALSE,19,Male,Former,9.29,72,White,12,TRUE,TRUE,Never,4
+FALSE,16,Female,Never,0.48,73,White,11-Sep,FALSE,FALSE,<1 time per month,3
+FALSE,21,Female,Never,NA,72,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,2.82,48,White,12,FALSE,TRUE,<1 time per month,4
+FALSE,3,Male,Former,7.5,52,White,0-8,TRUE,TRUE,<1 time per month,1
+FALSE,21,Female,Never,NA,58,White,12,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,2.38,50,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,6,Female,Never,2.38,73,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Never,1.37,57,White,0-8,TRUE,TRUE,Never,2
+FALSE,21,Female,Never,3.72,63,White,0-8,FALSE,TRUE,Never,5
+FALSE,18,Male,Never,2.38,65,White,12,TRUE,FALSE,<1 time per month,5
+FALSE,21,Male,Current,1.33,47,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,2.46,52,White,0-8,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,8.29,45,White,College Grad,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,6.51,50,White,College Grad,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,0.69,67,White,0-8,TRUE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,5.86,46,White,Some College,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Current,2.63,50,White,0-8,FALSE,TRUE,<1 time per month,3
+FALSE,20,Female,Never,1.09,71,White,0-8,FALSE,FALSE,Never,4
+FALSE,21,Female,Former,3.87,54,White,Some College,FALSE,TRUE,2+ times per week,4
+FALSE,16,Female,Current,2.63,69,White,0-8,FALSE,TRUE,Never,0
+FALSE,11,Male,Never,2.93,68,Nonwhite,0-8,TRUE,TRUE,Just about everyday/everyday,2
+FALSE,21,Male,Current,3.57,53,White,0-8,TRUE,TRUE,2+ times per week,1
+FALSE,21,Male,Current,6.96,49,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,7.74,54,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,11,Male,Current,2.19,47,Nonwhite,Some College,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Never,6.96,49,White,12,TRUE,TRUE,2+ times per week,2
+FALSE,21,Female,Never,3.56,50,White,11-Sep,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,2.93,63,Nonwhite,Some College,FALSE,TRUE,<1 time per month,2
+FALSE,20,Female,Current,2.63,55,White,0-8,FALSE,TRUE,Never,5
+FALSE,21,Female,Former,3.87,61,White,12,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,9,Male,Never,3.85,53,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,16,Male,Never,NA,69,White,12,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Current,1.92,52,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,0.86,48,White,0-8,TRUE,FALSE,<1 time per month,5
+FALSE,20,Male,Current,2.75,53,White,12,TRUE,TRUE,Never,4
+FALSE,21,Male,Current,2.75,51,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,14,Female,Current,2.83,57,White,11-Sep,FALSE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,8.34,49,White,College Grad,TRUE,TRUE,2+ times per week,2
+FALSE,21,Female,Former,1.3,65,White,12,FALSE,TRUE,1-4 times per month,2
+FALSE,21,Male,Former,5.84,45,White,11-Sep,TRUE,FALSE,1-4 times per month,4
+FALSE,21,Male,Former,2.75,48,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,15,Male,Former,1.62,64,White,0-8,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,15,Male,Former,2.75,54,White,11-Sep,TRUE,TRUE,<1 time per month,0
+FALSE,21,Female,Current,2.12,70,White,Some College,FALSE,FALSE,Just about everyday/everyday,4
+FALSE,4,Male,Current,4.17,61,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,1.26,71,White,11-Sep,FALSE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,4.91,56,White,12,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,7.5,59,White,12,FALSE,TRUE,<1 time per month,2
+FALSE,20,Male,Current,1.2,54,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,1.1,57,White,12,FALSE,TRUE,1-4 times per month,4
+FALSE,4,Male,Never,0.51,45,White,0-8,FALSE,TRUE,Never,3
+FALSE,7,Female,Never,3.16,70,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,0.99,70,Nonwhite,0-8,FALSE,TRUE,Never,2
+FALSE,21,Male,Current,3.26,50,White,12,TRUE,TRUE,<1 time per month,5
+FALSE,17,Male,Current,3.55,48,White,12,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,21,Male,Current,7.31,54,White,Some College,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,12,Female,Never,1.54,73,White,0-8,FALSE,TRUE,<1 time per month,2
+FALSE,14,Male,Current,6.31,55,White,College Grad,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,2.38,48,White,College Grad,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Never,1.33,65,White,0-8,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,3.16,68,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,0.89,64,White,11-Sep,FALSE,TRUE,2+ times per week,4
+FALSE,21,Female,Current,4.17,52,White,12,TRUE,TRUE,1-4 times per month,1
+FALSE,19,Male,Current,3.95,74,White,0-8,FALSE,FALSE,2+ times per week,5
+FALSE,21,Female,Former,5.84,53,White,College Grad,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Former,4.91,47,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Never,4.17,55,White,12,FALSE,TRUE,Never,5
+FALSE,21,Male,Never,5.22,48,White,0-8,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,21,Male,Former,4.17,50,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Former,6.31,48,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,2.35,49,White,12,FALSE,TRUE,2+ times per week,2
+FALSE,21,Male,Former,4.66,51,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,3.51,57,White,11-Sep,TRUE,TRUE,<1 time per month,5
+FALSE,21,Male,Never,2.16,48,White,11-Sep,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Female,Never,0.9,61,White,12,FALSE,FALSE,<1 time per month,5
+FALSE,15,Male,Former,2.38,70,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,14,Female,Never,3.16,65,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,2.38,63,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,6,Male,Current,0.42,70,White,0-8,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,18,Male,Former,1.59,65,White,12,FALSE,TRUE,Just about everyday/everyday,0
+FALSE,21,Female,Never,8.34,57,White,11-Sep,TRUE,TRUE,<1 time per month,5
+FALSE,12,Female,Never,1.94,65,White,Some College,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Female,Former,2.32,65,White,12,FALSE,FALSE,Just about everyday/everyday,5
+FALSE,21,Male,Current,1.59,65,White,0-8,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,21,Male,Former,1.14,47,White,College Grad,TRUE,TRUE,<1 time per month,5
+FALSE,20,Female,Never,1.88,66,White,11-Sep,FALSE,FALSE,1-4 times per month,0
+FALSE,21,Female,Current,2.33,49,White,11-Sep,FALSE,TRUE,<1 time per month,1
+FALSE,21,Female,Never,5.84,54,White,12,FALSE,TRUE,<1 time per month,1
+FALSE,16,Female,Never,1.24,70,White,Some College,FALSE,FALSE,Never,1
+FALSE,19,Female,Never,0.94,68,White,11-Sep,FALSE,FALSE,<1 time per month,5
+FALSE,15,Male,Current,2.38,65,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,3
+FALSE,21,Female,Former,1.72,47,White,12,TRUE,FALSE,1-4 times per month,2
+FALSE,21,Male,Former,1.65,64,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,11,Male,Current,3.51,54,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,3
+FALSE,21,Male,Current,2.83,60,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,20,Male,Former,4.91,68,White,Some College,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,16,Female,Never,0.81,74,White,11-Sep,FALSE,FALSE,Just about everyday/everyday,3
+FALSE,21,Male,Current,4.17,48,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Never,2.9,49,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,1.87,51,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,15,Male,Current,2.93,67,Nonwhite,0-8,TRUE,TRUE,Never,2
+FALSE,21,Male,Current,3.03,51,White,Some College,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,6.51,45,White,Some College,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Former,3.57,53,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,3.87,61,White,12,FALSE,TRUE,Just about everyday/everyday,2
+FALSE,14,Male,Current,3.16,69,White,Some College,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.18,67,White,Some College,TRUE,FALSE,<1 time per month,3
+FALSE,21,Female,Never,0.73,71,White,0-8,FALSE,TRUE,Never,4
+FALSE,20,Female,Never,1.85,67,White,College Grad,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,1.44,61,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,3,Female,Current,1.33,51,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,4
+FALSE,21,Male,Current,2.75,45,White,12,TRUE,TRUE,2+ times per week,4
+FALSE,19,Female,Never,1.2,69,White,12,TRUE,FALSE,<1 time per month,2
+FALSE,21,Female,Never,2.12,59,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,2.02,55,White,12,TRUE,TRUE,1-4 times per month,2
+FALSE,20,Male,Never,4.65,70,White,Some College,FALSE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Current,4.92,52,White,0-8,TRUE,TRUE,2+ times per week,5
+FALSE,11,Female,Never,1.17,67,White,0-8,FALSE,TRUE,Never,0
+FALSE,21,Female,Never,2.27,65,White,0-8,FALSE,FALSE,Never,2
+FALSE,21,Female,Never,1.66,66,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,0.9,67,White,0-8,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Male,Never,1.76,72,White,0-8,TRUE,TRUE,<1 time per month,5
+FALSE,21,Female,Never,1.97,60,White,0-8,FALSE,TRUE,1-4 times per month,2
+FALSE,20,Male,Never,2,52,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,18,Male,Former,4.65,66,White,Some College,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,4.65,65,White,Some College,FALSE,TRUE,2+ times per week,4
+FALSE,6,Male,Former,0.9,67,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,7,Male,Current,2.62,73,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,11,Female,Never,2.62,69,White,Some College,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,0.78,59,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,17,Female,Current,1.16,73,White,0-8,TRUE,FALSE,Never,0
+FALSE,9,Male,Current,6.87,62,White,0-8,FALSE,FALSE,1-4 times per month,4
+FALSE,16,Male,Former,2.16,66,White,0-8,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,1.68,51,White,Some College,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Former,6.31,56,White,College Grad,TRUE,TRUE,Never,4
+FALSE,9,Male,Former,2.83,61,White,Some College,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Male,Former,2.83,58,White,0-8,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Never,1.25,72,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Never,2.83,52,White,12,FALSE,TRUE,1-4 times per month,3
+FALSE,21,Male,Never,3.23,58,White,Some College,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,0.79,72,White,0-8,FALSE,TRUE,Just about everyday/everyday,2
+FALSE,18,Male,Former,1.49,68,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,4.91,57,White,12,FALSE,TRUE,Never,4
+FALSE,21,Male,Current,3.85,54,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,19,Female,Never,1.05,72,White,0-8,FALSE,FALSE,Never,2
+FALSE,21,Male,Never,3.16,66,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Never,0.87,51,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Never,2.82,63,White,0-8,FALSE,TRUE,Never,2
+FALSE,21,Female,Never,3.51,60,White,Some College,TRUE,TRUE,<1 time per month,1
+FALSE,21,Female,Former,1.59,49,White,0-8,TRUE,TRUE,1-4 times per month,3
+FALSE,21,Male,Current,4.91,52,White,0-8,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Current,2.63,62,White,0-8,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,6.04,64,White,Some College,FALSE,TRUE,Never,3
+FALSE,21,Male,Current,4.84,55,White,11-Sep,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,2.07,46,White,12,FALSE,TRUE,Never,3
+FALSE,18,Female,Never,2.38,73,White,0-8,FALSE,TRUE,Never,2
+FALSE,4,Female,Current,0.87,73,White,0-8,FALSE,FALSE,Never,4
+FALSE,10,Male,Never,0.79,71,White,0-8,FALSE,TRUE,2+ times per week,0
+FALSE,21,Female,Current,5.84,50,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,2.13,60,White,0-8,TRUE,FALSE,Never,4
+FALSE,21,Female,Never,3.72,67,White,Some College,FALSE,TRUE,Never,3
+FALSE,19,Male,Never,2.38,73,White,0-8,FALSE,TRUE,Never,4
+FALSE,14,Female,Never,2.38,74,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Female,Never,3.51,61,White,0-8,FALSE,TRUE,Never,5
+FALSE,17,Male,Never,0.73,65,White,0-8,FALSE,FALSE,1-4 times per month,1
+FALSE,21,Male,Former,2.38,55,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,2.75,45,White,12,TRUE,TRUE,Never,4
+FALSE,21,Female,Never,3.16,66,White,11-Sep,FALSE,TRUE,<1 time per month,3
+FALSE,14,Male,Former,3.72,72,White,0-8,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,2.83,56,White,12,TRUE,TRUE,Never,5
+FALSE,21,Male,Former,2.38,63,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,21,Female,Never,6.87,48,White,Some College,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,NA,45,White,12,FALSE,TRUE,Never,0
+FALSE,21,Male,Former,2.42,69,White,0-8,FALSE,TRUE,<1 time per month,4
+FALSE,7,Male,Current,6.31,58,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,21,Male,Current,2.51,66,White,College Grad,TRUE,FALSE,1-4 times per month,4
+FALSE,11,Male,Former,2.33,50,White,Missing,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,2.75,48,White,12,TRUE,TRUE,<1 time per month,1
+FALSE,21,Male,Current,1.14,50,White,11-Sep,TRUE,TRUE,2+ times per week,4
+FALSE,21,Female,Never,4.91,51,White,Some College,TRUE,TRUE,2+ times per week,1
+FALSE,21,Male,Former,2.27,64,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Former,2.75,46,White,12,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Former,5.84,59,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Current,0.92,70,Nonwhite,11-Sep,FALSE,FALSE,<1 time per month,1
+FALSE,21,Female,Never,1.92,53,White,0-8,TRUE,TRUE,Never,2
+FALSE,21,Female,Former,5.46,70,White,College Grad,FALSE,FALSE,Just about everyday/everyday,4
+FALSE,21,Female,Never,1.2,72,White,Some College,FALSE,FALSE,1-4 times per month,3
+FALSE,21,Female,Current,3.56,48,White,12,FALSE,FALSE,1-4 times per month,4
+FALSE,21,Male,Never,NA,55,White,12,TRUE,TRUE,Just about everyday/everyday,1
+FALSE,21,Female,Never,9.83,67,White,College Grad,TRUE,FALSE,<1 time per month,5
+FALSE,21,Male,Never,4.56,56,White,Some College,TRUE,TRUE,1-4 times per month,4
+FALSE,21,Female,Current,2.21,45,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Current,1.74,45,White,11-Sep,FALSE,FALSE,2+ times per week,3
+FALSE,21,Male,Current,NA,51,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,9.69,61,White,11-Sep,TRUE,FALSE,<1 time per month,5
+FALSE,21,Female,Never,5.42,50,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Male,Former,1.56,65,White,11-Sep,FALSE,TRUE,Never,3
+FALSE,17,Male,Current,2.93,69,Nonwhite,0-8,TRUE,TRUE,Never,3
+FALSE,21,Female,Never,3.46,65,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,5.42,55,White,College Grad,TRUE,TRUE,Never,3
+FALSE,11,Male,Current,0.9,71,White,0-8,FALSE,TRUE,Never,3
+FALSE,21,Female,Never,3.57,74,White,0-8,FALSE,FALSE,Never,5
+FALSE,10,Male,Current,3.26,71,White,0-8,FALSE,TRUE,<1 time per month,5
+FALSE,21,Male,Current,1.74,56,White,11-Sep,TRUE,TRUE,Never,1
+FALSE,21,Female,Never,1.05,56,White,12,TRUE,FALSE,Never,5
+FALSE,21,Female,Never,2.93,67,Nonwhite,0-8,FALSE,TRUE,Never,1
+FALSE,18,Male,Former,1.67,65,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,21,Male,Never,3.26,56,White,11-Sep,TRUE,TRUE,2+ times per week,5
+FALSE,21,Male,Current,3.87,62,White,11-Sep,TRUE,TRUE,Never,5
+FALSE,12,Female,Current,3.18,71,White,12,FALSE,FALSE,<1 time per month,3
+FALSE,17,Male,Former,3.16,68,White,College Grad,FALSE,TRUE,1-4 times per month,5
+FALSE,21,Male,Never,6.51,69,White,College Grad,FALSE,TRUE,1-4 times per month,5
+FALSE,19,Male,Former,NA,73,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,14,Male,Former,6.51,65,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,14,Female,Former,2.83,53,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,6,Male,Former,4.65,65,White,0-8,FALSE,TRUE,2+ times per week,5
+FALSE,21,Female,Never,2.84,72,White,11-Sep,FALSE,TRUE,Never,5
+FALSE,5,Male,Current,4.91,50,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Former,3.85,46,White,12,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Current,2.38,70,White,0-8,FALSE,TRUE,1-4 times per month,1
+FALSE,21,Female,Former,NA,50,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Male,Current,0.94,65,White,12,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Former,1.87,51,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,5
+FALSE,21,Female,Never,4.17,53,White,11-Sep,TRUE,TRUE,Never,4
+FALSE,10,Male,Never,5.81,68,White,11-Sep,FALSE,TRUE,2+ times per week,5
+FALSE,13,Male,Current,4.91,57,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Female,Never,3.84,61,White,11-Sep,TRUE,FALSE,Never,3
+FALSE,20,Female,Never,1.67,69,White,0-8,FALSE,TRUE,Just about everyday/everyday,5
+FALSE,21,Male,Never,1.52,69,White,0-8,FALSE,TRUE,Never,4
+FALSE,21,Male,Never,6.51,74,White,11-Sep,FALSE,TRUE,1-4 times per month,4
+FALSE,21,Female,Never,3.26,47,White,12,TRUE,TRUE,<1 time per month,3
+FALSE,21,Female,Never,6.51,66,White,Some College,FALSE,TRUE,Never,3
+FALSE,21,Male,Former,3.26,47,White,12,TRUE,TRUE,Just about everyday/everyday,4
+FALSE,21,Female,Never,2.48,49,White,12,FALSE,FALSE,<1 time per month,3
+FALSE,21,Female,Never,1.73,68,White,11-Sep,FALSE,TRUE,<1 time per month,4
+FALSE,21,Female,Current,1.15,63,White,11-Sep,FALSE,FALSE,Never,5
+FALSE,21,Female,Current,3.51,48,White,12,TRUE,TRUE,1-4 times per month,0
+FALSE,21,Female,Never,NA,53,White,0-8,TRUE,TRUE,1-4 times per month,1
+FALSE,16,Female,Current,1.34,54,White,12,FALSE,TRUE,<1 time per month,3
+FALSE,18,Male,Former,1.64,69,Nonwhite,0-8,FALSE,TRUE,Never,5
+FALSE,21,Male,Current,3.23,50,White,College Grad,TRUE,TRUE,1-4 times per month,5
+FALSE,6,Male,Former,1.29,69,White,11-Sep,FALSE,FALSE,Just about everyday/everyday,0
+FALSE,21,Male,Never,NA,57,White,11-Sep,TRUE,TRUE,1-4 times per month,5
+FALSE,21,Male,Current,NA,48,White,11-Sep,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,7,Male,Current,NA,51,Nonwhite,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,51,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,45,Nonwhite,11-Sep,FALSE,FALSE,Never,NA
+FALSE,21,Male,Never,NA,54,Nonwhite,0-8,TRUE,FALSE,2+ times per week,NA
+FALSE,21,Male,Never,NA,74,Nonwhite,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,48,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,60,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,53,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,48,White,11-Sep,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,61,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,20,Male,Never,NA,63,White,12,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,46,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,69,White,12,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Female,Current,NA,58,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,45,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,19,Male,Never,NA,53,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,19,Male,Former,NA,60,White,0-8,TRUE,FALSE,1-4 times per month,NA
+FALSE,18,Female,Current,NA,54,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,54,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+FALSE,15,Male,Current,NA,56,White,12,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,10,Male,Current,NA,62,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,57,Nonwhite,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,60,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,14,Male,Former,NA,67,White,Some College,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,45,Nonwhite,0-8,TRUE,FALSE,2+ times per week,NA
+FALSE,21,Male,Former,NA,67,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,67,White,College Grad,FALSE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,52,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Current,NA,63,Nonwhite,0-8,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,59,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,7,Male,Current,NA,74,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,7,Female,Never,NA,70,White,0-8,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,56,White,12,TRUE,TRUE,Never,NA
+FALSE,9,Male,Current,NA,63,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,50,White,0-8,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,50,White,12,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,73,White,0-8,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,54,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,16,Female,Former,NA,58,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,61,White,0-8,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,59,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,13,Female,Never,NA,61,White,11-Sep,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,58,White,12,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Male,Former,NA,57,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,55,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,45,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,48,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,50,White,12,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,55,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,59,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,50,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,58,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,49,White,College Grad,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,56,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,45,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,63,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Current,NA,66,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,20,Male,Never,NA,64,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Never,NA,65,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,46,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,60,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,54,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,14,Male,Never,NA,69,White,11-Sep,TRUE,FALSE,Never,NA
+FALSE,21,Male,Former,NA,66,White,12,FALSE,TRUE,Never,NA
+FALSE,15,Male,Never,NA,61,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,51,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Current,NA,51,White,College Grad,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,46,White,12,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,51,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,61,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Current,NA,52,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,59,Nonwhite,0-8,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,59,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,17,Male,Former,NA,67,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,47,White,Some College,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,70,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,63,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,55,Nonwhite,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,53,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,46,White,11-Sep,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Female,Current,NA,46,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,19,Male,Current,NA,62,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,47,Nonwhite,11-Sep,FALSE,TRUE,Never,NA
+FALSE,15,Male,Current,NA,51,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,49,Nonwhite,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Former,NA,59,White,College Grad,FALSE,TRUE,2+ times per week,NA
+FALSE,13,Female,Current,NA,63,Nonwhite,11-Sep,TRUE,FALSE,1-4 times per month,NA
+FALSE,13,Male,Former,NA,45,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,54,Nonwhite,11-Sep,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,65,Nonwhite,0-8,TRUE,FALSE,Never,NA
+FALSE,21,Male,Former,NA,48,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,52,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Current,NA,53,White,12,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,47,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,16,Female,Never,NA,70,White,0-8,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Former,NA,55,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,55,White,0-8,FALSE,FALSE,Never,NA
+FALSE,20,Male,Current,NA,62,Nonwhite,Some College,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Former,NA,48,White,11-Sep,TRUE,TRUE,<1 time per month,NA
+FALSE,15,Female,Never,NA,69,White,0-8,FALSE,FALSE,Never,NA
+FALSE,21,Female,Former,NA,47,White,11-Sep,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,62,Nonwhite,College Grad,TRUE,TRUE,<1 time per month,NA
+FALSE,19,Female,Current,NA,48,White,Some College,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,61,White,Some College,TRUE,TRUE,Never,NA
+FALSE,5,Male,Former,NA,51,Nonwhite,Some College,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Former,NA,56,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,59,White,College Grad,TRUE,TRUE,Never,NA
+FALSE,13,Male,Never,NA,68,Nonwhite,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,45,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,15,Male,Current,NA,55,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,17,Male,Never,NA,68,White,0-8,FALSE,TRUE,Never,NA
+FALSE,8,Male,Current,NA,59,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,46,White,0-8,FALSE,FALSE,<1 time per month,NA
+FALSE,18,Female,Never,NA,59,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,69,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,50,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,18,Female,Never,NA,57,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,64,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,53,White,12,FALSE,TRUE,Never,NA
+FALSE,12,Female,Current,NA,53,Nonwhite,11-Sep,TRUE,FALSE,Never,NA
+FALSE,6,Female,Never,NA,74,Nonwhite,12,FALSE,FALSE,2+ times per week,NA
+FALSE,21,Female,Never,NA,55,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,50,White,College Grad,TRUE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,48,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,68,White,11-Sep,FALSE,FALSE,Never,NA
+FALSE,6,Male,Current,NA,66,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,11,Male,Former,NA,61,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Current,NA,53,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,20,Female,Never,NA,70,White,College Grad,FALSE,FALSE,<1 time per month,NA
+FALSE,21,Male,Former,NA,47,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,16,Female,Current,NA,51,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,60,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,7,Male,Current,NA,64,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,18,Male,Former,NA,59,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,15,Male,Former,NA,63,White,0-8,TRUE,TRUE,Never,NA
+FALSE,14,Male,Former,NA,63,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,72,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,63,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,50,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,47,White,College Grad,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Never,NA,52,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,50,White,0-8,TRUE,TRUE,Never,NA
+FALSE,15,Female,Never,NA,48,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,52,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,71,White,12,FALSE,FALSE,Never,NA
+FALSE,12,Female,Current,NA,60,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Former,NA,51,White,College Grad,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,6,Female,Current,NA,53,White,Some College,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Female,Never,NA,49,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,55,White,Some College,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,66,White,College Grad,FALSE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,45,White,Some College,TRUE,FALSE,<1 time per month,NA
+FALSE,12,Female,Never,NA,54,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,50,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Current,NA,53,Nonwhite,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,56,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,19,Male,Current,NA,56,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,55,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,18,Female,Never,NA,73,White,0-8,FALSE,FALSE,Never,NA
+FALSE,21,Male,Never,NA,66,Nonwhite,0-8,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,68,White,12,FALSE,FALSE,<1 time per month,NA
+FALSE,21,Male,Current,NA,55,Nonwhite,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,71,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,9,Male,Former,NA,67,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,58,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,54,White,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,46,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,50,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,56,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,18,Male,Current,NA,45,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,59,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,5,Male,Former,NA,70,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,48,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,49,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,48,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,12,Male,Never,NA,56,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Current,NA,53,White,0-8,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,15,Female,Current,NA,49,White,Some College,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,48,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,45,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,68,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,53,White,College Grad,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,63,White,College Grad,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,45,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,11,Male,Never,NA,71,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,11,Male,Current,NA,69,Nonwhite,0-8,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,48,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,12,Male,Never,NA,72,White,0-8,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,59,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Current,NA,59,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,61,White,Some College,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,56,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,51,White,11-Sep,FALSE,FALSE,1-4 times per month,NA
+FALSE,12,Male,Current,NA,68,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Current,NA,47,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,18,Male,Never,NA,59,White,12,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,47,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,11,Female,Former,NA,69,White,0-8,FALSE,FALSE,Never,NA
+FALSE,21,Male,Former,NA,54,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,55,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,46,White,College Grad,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,49,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,53,White,12,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Female,Never,NA,51,White,Some College,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,56,White,College Grad,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Former,NA,66,White,Some College,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,46,Nonwhite,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,48,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,17,Female,Current,NA,62,Nonwhite,0-8,FALSE,FALSE,Never,NA
+FALSE,21,Female,Never,NA,58,White,12,FALSE,FALSE,Never,NA
+FALSE,20,Female,Current,NA,52,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Current,NA,48,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Current,NA,48,Nonwhite,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,72,White,College Grad,TRUE,FALSE,Never,NA
+FALSE,21,Female,Never,NA,60,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,51,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,10,Male,Former,NA,68,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,48,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+FALSE,13,Female,Former,NA,73,White,0-8,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,54,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,20,Female,Never,NA,61,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,11,Female,Never,NA,50,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,58,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Current,NA,45,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,46,White,College Grad,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Current,NA,49,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Current,NA,49,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Former,NA,54,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,46,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,51,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,17,Male,Former,NA,63,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,55,Nonwhite,11-Sep,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,72,White,Some College,FALSE,FALSE,<1 time per month,NA
+FALSE,16,Male,Former,NA,71,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,18,Female,Never,NA,68,White,College Grad,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,46,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,13,Male,Current,NA,63,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Former,NA,50,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,18,Female,Never,NA,73,White,11-Sep,FALSE,FALSE,<1 time per month,NA
+FALSE,21,Male,Former,NA,47,Nonwhite,12,TRUE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,50,White,College Grad,TRUE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,54,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,20,Female,Former,NA,58,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,52,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,56,White,0-8,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,46,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,47,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,56,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Former,NA,55,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,52,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,64,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,65,White,Some College,FALSE,FALSE,<1 time per month,NA
+FALSE,21,Female,Current,NA,45,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,74,White,College Grad,FALSE,TRUE,Never,NA
+FALSE,17,Female,Never,NA,50,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,57,White,Some College,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Former,NA,61,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,60,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,64,White,Some College,FALSE,FALSE,Never,NA
+FALSE,21,Male,Current,NA,65,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,57,White,Some College,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,54,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,56,White,0-8,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,59,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,57,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,48,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,69,White,College Grad,FALSE,TRUE,<1 time per month,NA
+FALSE,14,Male,Current,NA,65,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,71,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,13,Male,Former,NA,48,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,55,White,Some College,FALSE,TRUE,Never,NA
+FALSE,9,Male,Former,NA,73,White,0-8,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,53,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,59,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,67,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,59,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,65,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,20,Female,Never,NA,68,White,College Grad,FALSE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,60,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Male,Never,NA,55,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Male,Never,NA,53,White,0-8,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,19,Female,Never,NA,73,White,12,FALSE,FALSE,Never,NA
+FALSE,21,Female,Never,NA,69,White,12,FALSE,TRUE,Never,NA
+FALSE,17,Male,Current,NA,50,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Never,NA,73,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Former,NA,70,White,0-8,FALSE,TRUE,Never,NA
+FALSE,10,Female,Former,NA,58,White,11-Sep,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Current,NA,46,White,Some College,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Current,NA,56,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,62,White,11-Sep,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,62,White,12,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,53,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,54,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Former,NA,46,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,12,Male,Current,NA,67,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Current,NA,50,White,Some College,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Male,Current,NA,52,White,Some College,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,49,White,11-Sep,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,48,White,Some College,TRUE,FALSE,Never,NA
+FALSE,21,Female,Never,NA,45,White,11-Sep,TRUE,FALSE,Never,NA
+FALSE,21,Female,Never,NA,53,White,12,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Male,Current,NA,49,White,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,15,Male,Current,NA,53,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,45,White,12,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,58,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,13,Female,Former,NA,61,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Never,NA,52,White,College Grad,TRUE,FALSE,2+ times per week,NA
+FALSE,15,Male,Current,NA,47,White,College Grad,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,59,White,Some College,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,68,Nonwhite,11-Sep,FALSE,TRUE,Never,NA
+FALSE,16,Male,Former,NA,63,White,12,TRUE,TRUE,<1 time per month,NA
+FALSE,11,Male,Never,NA,70,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Former,NA,48,White,College Grad,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,50,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,15,Male,Former,NA,69,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,45,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+FALSE,11,Male,Current,NA,45,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,53,White,Some College,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,55,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,45,White,12,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Former,NA,51,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Never,NA,48,White,11-Sep,TRUE,FALSE,Just about everyday/everyday,NA
+FALSE,14,Male,Never,NA,60,White,Some College,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,18,Male,Never,NA,70,Nonwhite,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,58,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,17,Female,Never,NA,66,White,12,FALSE,FALSE,2+ times per week,NA
+FALSE,21,Male,Current,NA,48,White,12,TRUE,TRUE,1-4 times per month,NA
+FALSE,7,Male,Current,NA,45,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,52,White,College Grad,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,45,White,11-Sep,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,54,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,64,White,12,FALSE,FALSE,Never,NA
+FALSE,20,Male,Never,NA,59,Nonwhite,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,55,White,Some College,TRUE,TRUE,2+ times per week,NA
+FALSE,16,Female,Never,NA,74,White,0-8,FALSE,FALSE,1-4 times per month,NA
+FALSE,21,Male,Former,NA,51,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,15,Male,Current,NA,57,Nonwhite,0-8,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Male,Never,NA,46,White,0-8,TRUE,TRUE,1-4 times per month,NA
+FALSE,8,Male,Current,NA,52,White,11-Sep,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,64,White,12,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Male,Never,NA,66,White,11-Sep,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,51,Nonwhite,12,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Female,Never,NA,52,White,12,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Female,Current,NA,50,White,0-8,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,48,White,12,FALSE,TRUE,2+ times per week,NA
+FALSE,21,Female,Never,NA,56,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,68,Nonwhite,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,51,White,Some College,TRUE,FALSE,<1 time per month,NA
+FALSE,21,Female,Never,NA,48,White,12,TRUE,TRUE,2+ times per week,NA
+FALSE,21,Female,Current,NA,51,White,Some College,FALSE,TRUE,<1 time per month,NA
+FALSE,21,Male,Never,NA,59,White,College Grad,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,19,Male,Current,NA,63,White,11-Sep,TRUE,TRUE,1-4 times per month,NA
+FALSE,7,Male,Never,NA,71,White,12,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Male,Never,NA,53,White,11-Sep,TRUE,TRUE,Never,NA
+FALSE,21,Female,Never,NA,48,White,Some College,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,53,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Female,Former,NA,45,White,College Grad,FALSE,TRUE,1-4 times per month,NA
+FALSE,21,Female,Never,NA,66,White,0-8,FALSE,TRUE,Never,NA
+FALSE,14,Male,Never,NA,53,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,57,White,0-8,TRUE,TRUE,Never,NA
+FALSE,21,Male,Current,NA,45,White,11-Sep,FALSE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Never,NA,55,White,12,TRUE,FALSE,Never,NA
+FALSE,21,Female,Current,NA,54,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Current,NA,55,White,0-8,FALSE,FALSE,1-4 times per month,NA
+FALSE,11,Male,Former,NA,73,White,0-8,TRUE,TRUE,Just about everyday/everyday,NA
+FALSE,21,Female,Former,NA,51,White,11-Sep,FALSE,TRUE,Never,NA
+FALSE,7,Male,Never,NA,70,White,0-8,FALSE,FALSE,2+ times per week,NA
+FALSE,21,Female,Never,NA,65,White,12,FALSE,TRUE,Never,NA
+FALSE,21,Male,Former,NA,59,White,0-8,TRUE,FALSE,Never,NA
+FALSE,21,Male,Current,NA,45,White,0-8,TRUE,FALSE,1-4 times per month,NA
+FALSE,21,Female,Current,NA,47,White,0-8,TRUE,TRUE,<1 time per month,NA
+FALSE,21,Female,Never,NA,73,White,0-8,FALSE,TRUE,Never,NA
+FALSE,21,Female,Former,NA,58,White,College Grad,FALSE,TRUE,Never,NA
